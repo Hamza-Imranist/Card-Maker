@@ -1,0 +1,5124 @@
+    @font-face {
+      font-family: 'ABeeZee';
+      src: url('http://fonts.gstatic.com/s/abeezee/v11/mE5BOuZKGln_Ex0uYKpIaw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Abel';
+      src: url('http://fonts.gstatic.com/s/abel/v8/RpUKfqNxoyNe_ka23bzQ2A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Abhaya Libre';
+      src: url('http://fonts.gstatic.com/s/abhayalibre/v3/zTLc5Jxv6yvb1nHyqBasVy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Abril Fatface';
+      src: url('http://fonts.gstatic.com/s/abrilfatface/v9/X1g_KwGeBV3ajZIXQ9VnDojjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Aclonica';
+      src: url('http://fonts.gstatic.com/s/aclonica/v8/M6pHZMPwK3DiBSlo3jwAKQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Acme';
+      src: url('http://fonts.gstatic.com/s/acme/v7/-J6XNtAHPZBEbsifCdBt-g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Actor';
+      src: url('http://fonts.gstatic.com/s/actor/v7/ugMf40CrRK6Jf6Yz_xNSmQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Adamina';
+      src: url('http://fonts.gstatic.com/s/adamina/v10/RUQfOodOMiVVYqFZcSlT9w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Advent Pro';
+      src: url('http://fonts.gstatic.com/s/adventpro/v7/1NxMBeKVcNNH2H46AUR3wfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Aguafina Script';
+      src: url('http://fonts.gstatic.com/s/aguafinascript/v6/65g7cgMtMGnNlNyq_Z6CvMxLhO8OSNnfAp53LK1_iRs.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Akronim';
+      src: url('http://fonts.gstatic.com/s/akronim/v7/qA0L2CSArk3tuOWE1AR1DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Aladin';
+      src: url('http://fonts.gstatic.com/s/aladin/v6/PyuJ5cVHkduO0j5fAMKvAA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Aldrich';
+      src: url('http://fonts.gstatic.com/s/aldrich/v8/kMMW1S56gFx7RP_mW1g-Eg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alef';
+      src: url('http://fonts.gstatic.com/s/alef/v9/ENvZ_P0HBDQxNZYCQO0lUA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alegreya';
+      src: url('http://fonts.gstatic.com/s/alegreya/v10/62J3atXd6bvMU4qO_ca-eA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alegreya SC';
+      src: url('http://fonts.gstatic.com/s/alegreyasc/v9/3ozeFnTbygMK6PfHh8B-iqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alegreya Sans';
+      src: url('http://fonts.gstatic.com/s/alegreyasans/v8/KYNzioYhDai7mTMnx_gDgn8f0n03UdmQgF_CLvNR2vg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alegreya Sans SC';
+      src: url('http://fonts.gstatic.com/s/alegreyasanssc/v7/6kgb6ZvOagoVIRZyl8XV-EklWX-XdLVn1WTiuGuvKIU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alex Brush';
+      src: url('http://fonts.gstatic.com/s/alexbrush/v8/ooh3KJFbKJSUoIRWfiu8o_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alfa Slab One';
+      src: url('http://fonts.gstatic.com/s/alfaslabone/v7/Qx6FPcitRwTC_k88tLPc-Yjjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alice';
+      src: url('http://fonts.gstatic.com/s/alice/v9/wZTAfivekBqIg-rk63nFvQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alike';
+      src: url('http://fonts.gstatic.com/s/alike/v10/Ho8YpRKNk_202fwDiGNIyw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Alike Angular';
+      src: url('http://fonts.gstatic.com/s/alikeangular/v8/OpeCu4xxI3qO1C7CZcJtPT3XH2uEnVI__ynTBvNyki8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Allan';
+      src: url('http://fonts.gstatic.com/s/allan/v9/T3lemhgZmLQkQI2Qc2bQHA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Allerta';
+      src: url('http://fonts.gstatic.com/s/allerta/v8/s9FOEuiJFTNbMe06ifzV8g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Allerta Stencil';
+      src: url('http://fonts.gstatic.com/s/allertastencil/v8/CdSZfRtHbQrBohqmzSdDYFf2eT4jUldwg_9fgfY_tHc.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Allura';
+      src: url('http://fonts.gstatic.com/s/allura/v6/4hcqgZanyuJ2gMYWffIR6A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Almendra';
+      src: url('http://fonts.gstatic.com/s/almendra/v10/PDpbB-ZF7deXAAEYPkQOeg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Almendra Display';
+      src: url('http://fonts.gstatic.com/s/almendradisplay/v8/2Zuu97WJ_ez-87yz5Ai8fF6uyC_qD11hrFQ6EGgTJWI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Almendra SC';
+      src: url('http://fonts.gstatic.com/s/almendrasc/v8/IuiLd8Fm9I6raSalxMoWeaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Amarante';
+      src: url('http://fonts.gstatic.com/s/amarante/v5/2dQHjIBWSpydit5zkJZnOw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Amaranth';
+      src: url('http://fonts.gstatic.com/s/amaranth/v8/7VcBog22JBHsHXHdnnycTA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Amatic SC';
+      src: url('http://fonts.gstatic.com/s/amaticsc/v11/MldbRWLFytvqxU1y81xSVg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Amethysta';
+      src: url('http://fonts.gstatic.com/s/amethysta/v6/1jEo9tOFIJDolAUpBnWbnA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Amiko';
+      src: url('http://fonts.gstatic.com/s/amiko/v2/A7bjc3cOLJtGgpPGnxyHsw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Amiri';
+      src: url('http://fonts.gstatic.com/s/amiri/v9/ATARrPmSew75SlpOw2YABQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Amita';
+      src: url('http://fonts.gstatic.com/s/amita/v3/RhdhGBXSJqkHo6g7miTEcQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Anaheim';
+      src: url('http://fonts.gstatic.com/s/anaheim/v5/t-z8aXHMpgI2gjN_rIflKA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Andada';
+      src: url('http://fonts.gstatic.com/s/andada/v9/rSFaDqNNQBRw3y19MB5Y4w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Andika';
+      src: url('http://fonts.gstatic.com/s/andika/v9/oe-ag1G0lcqZ3IXfeEgaGg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Angkor';
+      src: url('http://fonts.gstatic.com/s/angkor/v10/DLpLgIS-8F10ecwKqCm95Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Annie Use Your Telescope';
+      src: url('http://fonts.gstatic.com/s/annieuseyourtelescope/v8/2cuiO5VmaR09C8SLGEQjGqbp7mtG8sPlcZvOaO8HBak.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Anonymous Pro';
+      src: url('http://fonts.gstatic.com/s/anonymouspro/v11/Zhfjj_gat3waL4JSju74E-V_5zh5b-_HiooIRUBwn1A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Antic';
+      src: url('http://fonts.gstatic.com/s/antic/v9/hEa8XCNM7tXGzD0Uk0AipA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Antic Didone';
+      src: url('http://fonts.gstatic.com/s/anticdidone/v6/r3nJcTDuOluOL6LGDV1vRy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Antic Slab';
+      src: url('http://fonts.gstatic.com/s/anticslab/v6/PSbJCTKkAS7skPdkd7AKEvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Anton';
+      src: url('http://fonts.gstatic.com/s/anton/v9/XIbCenm-W0IRHWYIh7CGUQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arapey';
+      src: url('http://fonts.gstatic.com/s/arapey/v6/dqu823lrSYn8T2gApTdslA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arbutus';
+      src: url('http://fonts.gstatic.com/s/arbutus/v7/Go_hurxoUsn5MnqNVQgodQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arbutus Slab';
+      src: url('http://fonts.gstatic.com/s/arbutusslab/v6/6k3Yp6iS9l4jRIpynA8qMy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Architects Daughter';
+      src: url('http://fonts.gstatic.com/s/architectsdaughter/v8/RXTgOOQ9AAtaVOHxx0IUBMCy0EhZjHzu-y0e6uLf4Fg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Archivo';
+      src: url('http://fonts.gstatic.com/s/archivo/v3/r-UxY2mA_5pDuZN717veMA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Archivo Black';
+      src: url('http://fonts.gstatic.com/s/archivoblack/v7/WoAoVT7K3k7hHfxKbvB6B51XQG8isOYYJhPIYAyrESQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Archivo Narrow';
+      src: url('http://fonts.gstatic.com/s/archivonarrow/v8/DsLzC9scoPnrGiwYYMQXppTvAuddT2xDMbdz0mdLyZY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Aref Ruqaa';
+      src: url('http://fonts.gstatic.com/s/arefruqaa/v4/kbqI055uLQz2hkccTTrYPfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arima Madurai';
+      src: url('http://fonts.gstatic.com/s/arimamadurai/v3/8fNfThKRw_pr7MwgNdcHiW_MnNA9OgK8I1F23mNWOpE.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arimo';
+      src: url('http://fonts.gstatic.com/s/arimo/v11/Gpeo80g-5ji2CcyXWnzh7g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arizonia';
+      src: url('http://fonts.gstatic.com/s/arizonia/v8/yzJqkHZqryZBTM7RKYV9Wg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Armata';
+      src: url('http://fonts.gstatic.com/s/armata/v8/1H8FwGgIRrbYtxSfXhOHlQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arsenal';
+      src: url('http://fonts.gstatic.com/s/arsenal/v2/PkcjwJ0AdgwImdsRdyzQQQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Artifika';
+      src: url('http://fonts.gstatic.com/s/artifika/v8/Ekfp4H4QG7D-WsABDOyj8g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arvo';
+      src: url('http://fonts.gstatic.com/s/arvo/v10/vvWPwz-PlZEwjOOIKqoZzA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Arya';
+      src: url('http://fonts.gstatic.com/s/arya/v3/xEVqtU3v8QLospHKpDaYEw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Asap';
+      src: url('http://fonts.gstatic.com/s/asap/v7/2lf-1MDR8tsTpEtvJmr2hA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Asap Condensed';
+      src: url('http://fonts.gstatic.com/s/asapcondensed/v2/WnB1QP0n-KM9-GXLGChcYSavnWbQ852KImK774Atfew.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Asar';
+      src: url('http://fonts.gstatic.com/s/asar/v4/mSmn3H5CcMA84CZ586X7WQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Asset';
+      src: url('http://fonts.gstatic.com/s/asset/v8/hfPmqY-JzuR1lULlQf9iTg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Assistant';
+      src: url('http://fonts.gstatic.com/s/assistant/v2/2iDwv6DBtyixlK5YHngp1w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Astloch';
+      src: url('http://fonts.gstatic.com/s/astloch/v8/fmbitVmHYLQP7MGPuFgpag.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Asul';
+      src: url('http://fonts.gstatic.com/s/asul/v7/9qpsNR_OOwyOYyo2N0IbBw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Athiti';
+      src: url('http://fonts.gstatic.com/s/athiti/v2/e7eiIKP18Iz9Kg1xat6AYw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Atma';
+      src: url('http://fonts.gstatic.com/s/atma/v3/dkXPrLoE_uqcgUFj4JdfRQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Atomic Age';
+      src: url('http://fonts.gstatic.com/s/atomicage/v9/WvBMe4FxANIKpo6Oi0mVJ_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Aubrey';
+      src: url('http://fonts.gstatic.com/s/aubrey/v10/zo9w8klO8bmOQIMajQ2aTA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Audiowide';
+      src: url('http://fonts.gstatic.com/s/audiowide/v6/yGcwRZB6VmoYhPUYT-mEow.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Autour One';
+      src: url('http://fonts.gstatic.com/s/autourone/v7/2xmQBcg7FN72jaQRFZPIDvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Average';
+      src: url('http://fonts.gstatic.com/s/average/v6/aHUibBqdDbVYl5FM48pxyQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Average Sans';
+      src: url('http://fonts.gstatic.com/s/averagesans/v6/dnU3R-5A_43y5bIyLztPsS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Averia Gruesa Libre';
+      src: url('http://fonts.gstatic.com/s/averiagruesalibre/v6/10vbZTOoN6T8D-nvDzwRFyXcKHuZXlCN8VkWHpkUzKM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Averia Libre';
+      src: url('http://fonts.gstatic.com/s/averialibre/v6/rYVgHZZQICWnhjguGsBspC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Averia Sans Libre';
+      src: url('http://fonts.gstatic.com/s/averiasanslibre/v6/yRJpjT39KxACO9F31mj_LqV8_KRn4epKAjTFK1s1fsg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Averia Serif Libre';
+      src: url('http://fonts.gstatic.com/s/averiaseriflibre/v7/fdtF30xa_Erw0zAzOoG4BZqY66i8AUyI16fGqw0iAew.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bad Script';
+      src: url('http://fonts.gstatic.com/s/badscript/v6/cRyUs0nJ2eMQFHwBsZNRXfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bahiana';
+      src: url('http://fonts.gstatic.com/s/bahiana/v2/uUnBWf2QkuMyfXPof7lcwQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo';
+      src: url('http://fonts.gstatic.com/s/baloo/v3/uFkbq9GEAWUcT0XNeptJ1Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Bhai';
+      src: url('http://fonts.gstatic.com/s/baloobhai/v3/FQvpC-04bh2QINuWAdnNW_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Bhaijaan';
+      src: url('http://fonts.gstatic.com/s/baloobhaijaan/v2/WADJjVg5Kkv7JQ_7Ty9eDj083UVTX9pxrhfn5xHQ3fY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Bhaina';
+      src: url('http://fonts.gstatic.com/s/baloobhaina/v3/HxxbxOVf9WQem_hKo1MXSi3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Chettan';
+      src: url('http://fonts.gstatic.com/s/baloochettan/v3/ODsFofLybGVOJ90e_EwdFbyYXtM25qb63HASTPtoTFA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Da';
+      src: url('http://fonts.gstatic.com/s/balooda/v3/RAJ0l2eJl_HDURCVxRE1iQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Paaji';
+      src: url('http://fonts.gstatic.com/s/baloopaaji/v3/KeqAjVRzso6QUEfpMLQ-7KCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Tamma';
+      src: url('http://fonts.gstatic.com/s/balootamma/v3/-FKAYy14SAfG8Gc6YAAaMaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Tammudu';
+      src: url('http://fonts.gstatic.com/s/balootammudu/v3/_VlYJH4sGzgC_fTDQEKfT6ESp5dI1YWe8pDCvQ6RhbI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baloo Thambi';
+      src: url('http://fonts.gstatic.com/s/baloothambi/v3/qXK3dZIeU-O-HruaN5cK0y3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Balthazar';
+      src: url('http://fonts.gstatic.com/s/balthazar/v6/WgbaSIs6dJAGXJ0qbz2xlw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bangers';
+      src: url('http://fonts.gstatic.com/s/bangers/v10/WAffdge5w99Xif-DLeqmcA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Barlow';
+      src: url('http://fonts.gstatic.com/s/barlow/v1/dPu9raNxg3UgZRNKkE5pjg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Barlow Condensed';
+      src: url('http://fonts.gstatic.com/s/barlowcondensed/v1/cKj4a3uS3MxclVhpADml2aDbm6fPDOZJsR8PmdG62gY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Barlow Semi Condensed';
+      src: url('http://fonts.gstatic.com/s/barlowsemicondensed/v1/Ok4yyskPwFvZPrXlQ7v904elbRYnLTTQA1Z5cVLnsI4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Barrio';
+      src: url('http://fonts.gstatic.com/s/barrio/v2/kzvMfZB0agZKzXC5yyRwWA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Basic';
+      src: url('http://fonts.gstatic.com/s/basic/v7/hNII2mS5Dxw5C0u_m3mXgA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Battambang';
+      src: url('http://fonts.gstatic.com/s/battambang/v11/MzrUfQLefYum5vVGM3EZVPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Baumans';
+      src: url('http://fonts.gstatic.com/s/baumans/v7/o0bFdPW1H5kd5saqqOcoVg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bayon';
+      src: url('http://fonts.gstatic.com/s/bayon/v10/yTubusjTnpNRZwA4_50iVw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Belgrano';
+      src: url('http://fonts.gstatic.com/s/belgrano/v8/iq8DUa2s7g6WRCeMiFrmtQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bellefair';
+      src: url('http://fonts.gstatic.com/s/bellefair/v3/V_AInB3Ikm6UgW6_YKlk2g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Belleza';
+      src: url('http://fonts.gstatic.com/s/belleza/v6/wchA3BWJlVqvIcSeNZyXew.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'BenchNine';
+      src: url('http://fonts.gstatic.com/s/benchnine/v6/h3OAlYqU3aOeNkuXgH2Q2w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bentham';
+      src: url('http://fonts.gstatic.com/s/bentham/v8/5-Mo8Fe7yg5tzV0GlQIuzQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Berkshire Swash';
+      src: url('http://fonts.gstatic.com/s/berkshireswash/v6/4RZJjVRPjYnC2939hKCAimKfbtsIjCZP_edQljX9gR0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bevan';
+      src: url('http://fonts.gstatic.com/s/bevan/v9/Rtg3zDsCeQiaJ_Qno22OJA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bigelow Rules';
+      src: url('http://fonts.gstatic.com/s/bigelowrules/v6/FEJCPLwo07FS-6SK6Al50X8f0n03UdmQgF_CLvNR2vg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bigshot One';
+      src: url('http://fonts.gstatic.com/s/bigshotone/v8/wSyZjBNTWDQHnvWE2jt6j6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bilbo';
+      src: url('http://fonts.gstatic.com/s/bilbo/v7/-ty-lPs5H7OIucWbnpFrkA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bilbo Swash Caps';
+      src: url('http://fonts.gstatic.com/s/bilboswashcaps/v9/UB_-crLvhx-PwGKW1oosDmYeFSdnSpRYv5h9gpdlD1g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'BioRhyme';
+      src: url('http://fonts.gstatic.com/s/biorhyme/v2/n6v5UkVPy_CjbP3fvsu1CA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'BioRhyme Expanded';
+      src: url('http://fonts.gstatic.com/s/biorhymeexpanded/v3/hgBNpgjTRZzGmZxqN5OuVjndr_hij4ilAk2n1d1AhsE.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Biryani';
+      src: url('http://fonts.gstatic.com/s/biryani/v3/W7bfR8-IY76Xz0QoB8L2xw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bitter';
+      src: url('http://fonts.gstatic.com/s/bitter/v12/w_BNdJvVZDRmqy5aSfB2kQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Black Ops One';
+      src: url('http://fonts.gstatic.com/s/blackopsone/v9/2XW-DmDsGbDLE372KrMW1Yjjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bokor';
+      src: url('http://fonts.gstatic.com/s/bokor/v10/uAKdo0A85WW23Gs6mcbw7A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bonbon';
+      src: url('http://fonts.gstatic.com/s/bonbon/v9/IW3u1yzG1knyW5oz0s9_6Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Boogaloo';
+      src: url('http://fonts.gstatic.com/s/boogaloo/v8/4Wu1tvFMoB80fSu8qLgQfQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bowlby One';
+      src: url('http://fonts.gstatic.com/s/bowlbyone/v9/eKpHjHfjoxM2bX36YNucefesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bowlby One SC';
+      src: url('http://fonts.gstatic.com/s/bowlbyonesc/v9/8ZkeXftTuzKBtmxOYXoRedDkZCMxWJecxjvKm2f8MJw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Brawler';
+      src: url('http://fonts.gstatic.com/s/brawler/v8/3gfSw6imxQnQxweVITqUrg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bree Serif';
+      src: url('http://fonts.gstatic.com/s/breeserif/v7/5h9crBVIrvZqgf34FHcnEfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bubblegum Sans';
+      src: url('http://fonts.gstatic.com/s/bubblegumsans/v6/Y9iTUUNz6lbl6TrvV4iwsytnKWgpfO2iSkLzTz-AABg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bubbler One';
+      src: url('http://fonts.gstatic.com/s/bubblerone/v6/e8S0qevkZAFaBybtt_SU4qCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Buda';
+      src: url('<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined property: stdClass::$regular in D:\Work\wamp\www\quickmode\google-fonts.php on line <i>23</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>247944</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='D:\Work\wamp\www\quickmode\google-fonts.php' bgcolor='#eeeeec'>...\google-fonts.php<b>:</b>0</td></tr>
+</table></font>
+');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Buenard';
+      src: url('http://fonts.gstatic.com/s/buenard/v9/NSpMPGKAUgrLrlstYVvIXQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bungee';
+      src: url('http://fonts.gstatic.com/s/bungee/v3/0jM4G9s968t1_tpwzM9UDg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bungee Hairline';
+      src: url('http://fonts.gstatic.com/s/bungeehairline/v3/8Li3dr3whdkxuk7pmLaZaSom6rTIagUDR1YFcrrRZjQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bungee Inline';
+      src: url('http://fonts.gstatic.com/s/bungeeinline/v3/Tb-1914q4rFpjT-F66PLCYjjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bungee Outline';
+      src: url('http://fonts.gstatic.com/s/bungeeoutline/v3/PcidvzXIcqS2Qwxm_iG6bLAREgn5xbW23GEXXnhMQ5Y.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Bungee Shade';
+      src: url('http://fonts.gstatic.com/s/bungeeshade/v3/HSW7pxPYXBWkq7OSnuXoeC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Butcherman';
+      src: url('http://fonts.gstatic.com/s/butcherman/v9/bxiJmD567sPBVpJsT0XR0vesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Butterfly Kids';
+      src: url('http://fonts.gstatic.com/s/butterflykids/v6/J4NTF5M25htqeTffYImtlUZaDk62iwTBnbnvwSjZciA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cabin';
+      src: url('http://fonts.gstatic.com/s/cabin/v12/XeuAFYo2xAPHxZGBbQtHhA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cabin Condensed';
+      src: url('http://fonts.gstatic.com/s/cabincondensed/v11/B0txb0blf2N29WdYPJjMSiQPsWWoiv__AzYJ9Zzn9II.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cabin Sketch';
+      src: url('http://fonts.gstatic.com/s/cabinsketch/v11/d9fijO34zQajqQvl3YHRCS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Caesar Dressing';
+      src: url('http://fonts.gstatic.com/s/caesardressing/v6/2T_WzBgE2Xz3FsyJMq34T9gR43u4FvCuJwIfF5Zxl6Y.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cagliostro';
+      src: url('http://fonts.gstatic.com/s/cagliostro/v6/i85oXbtdSatNEzss99bpj_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cairo';
+      src: url('http://fonts.gstatic.com/s/cairo/v2/-tPnHq7mmAjcjJRSjsuZGA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Calligraffitti';
+      src: url('http://fonts.gstatic.com/s/calligraffitti/v9/vLVN2Y-z65rVu1R7lWdvyDXz_orj3gX0_NzfmYulrko.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cambay';
+      src: url('http://fonts.gstatic.com/s/cambay/v3/etU9Bab4VuhzS-OKsb1VXg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cambo';
+      src: url('http://fonts.gstatic.com/s/cambo/v6/PnwpRuTdkYCf8qk4ajmNRA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Candal';
+      src: url('http://fonts.gstatic.com/s/candal/v7/x44dDW28zK7GR1gGDBmj9g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cantarell';
+      src: url('http://fonts.gstatic.com/s/cantarell/v7/p5ydP_uWQ5lsFzcP_XVMEw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cantata One';
+      src: url('http://fonts.gstatic.com/s/cantataone/v7/-a5FDvnBqaBMDaGgZYnEfqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cantora One';
+      src: url('http://fonts.gstatic.com/s/cantoraone/v7/oI-DS62RbHI8ZREjp73ehqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Capriola';
+      src: url('http://fonts.gstatic.com/s/capriola/v5/JxXPlkdzWwF9Cwelbvi9jA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cardo';
+      src: url('http://fonts.gstatic.com/s/cardo/v9/jbkF2_R0FKUEZTq5dwSknQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Carme';
+      src: url('http://fonts.gstatic.com/s/carme/v8/08E0NP1eRBEyFRUadmMfgA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Carrois Gothic';
+      src: url('http://fonts.gstatic.com/s/carroisgothic/v7/GCgb7bssGpwp7V5ynxmWy2x3d0cwUleGuRTmCYfCUaM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Carrois Gothic SC';
+      src: url('http://fonts.gstatic.com/s/carroisgothicsc/v7/bVp4nhwFIXU-r3LqUR8DSJTdPW1ioadGi2uRiKgJVCY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Carter One';
+      src: url('http://fonts.gstatic.com/s/carterone/v9/5X_LFvdbcB7OBG7hBgZ7fPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Catamaran';
+      src: url('http://fonts.gstatic.com/s/catamaran/v4/MdNkM-DU8f6R-25Nxpr_XA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Caudex';
+      src: url('http://fonts.gstatic.com/s/caudex/v7/PWEexiHLDmQbn2b1OPZWfg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Caveat';
+      src: url('http://fonts.gstatic.com/s/caveat/v4/8I23b6N-6rRVbh-C_Vx3yA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Caveat Brush';
+      src: url('http://fonts.gstatic.com/s/caveatbrush/v3/_d7bgsk3hfC4DXnUEeYKsy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cedarville Cursive';
+      src: url('http://fonts.gstatic.com/s/cedarvillecursive/v8/cuCe6HrkcqrWTWTUE7dw-41zwq9-z_Lf44CzRAA0d0Y.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ceviche One';
+      src: url('http://fonts.gstatic.com/s/cevicheone/v8/WOaXIMBD4VYMy39MsobJhKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Changa';
+      src: url('http://fonts.gstatic.com/s/changa/v3/7_e8qktkj6uKM0DamZJY9Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Changa One';
+      src: url('http://fonts.gstatic.com/s/changaone/v10/dr4qjce4W3kxFrZRkVD87fesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chango';
+      src: url('http://fonts.gstatic.com/s/chango/v6/3W3AeMMtRTH08t5qLOjBmg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chathura';
+      src: url('http://fonts.gstatic.com/s/chathura/v3/7hRNO-_zjRopkcP2n1rr8g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chau Philomene One';
+      src: url('http://fonts.gstatic.com/s/chauphilomeneone/v7/KKc5egCL-a2fFVoOA2x6tBFi5dxgSTdxqnMJgWkBJcg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chela One';
+      src: url('http://fonts.gstatic.com/s/chelaone/v6/h5O0dEnpnIq6jQnWxZybrA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chelsea Market';
+      src: url('http://fonts.gstatic.com/s/chelseamarket/v5/qSdzwh2A4BbNemy78sJLfAAI1i8fIftCBXsBF2v9UMI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chenla';
+      src: url('http://fonts.gstatic.com/s/chenla/v10/aLNpdAUDq2MZbWz2U1a16g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cherry Cream Soda';
+      src: url('http://fonts.gstatic.com/s/cherrycreamsoda/v8/OrD-AUnFcZeeKa6F_c0_WxOiHiuAPYA9ry3O1RG2XIU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cherry Swash';
+      src: url('http://fonts.gstatic.com/s/cherryswash/v5/HqOk7C7J1TZ5i3L-ejF0vi3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chewy';
+      src: url('http://fonts.gstatic.com/s/chewy/v9/hcDN5cvQdIu6Bx4mg_TSyw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chicle';
+      src: url('http://fonts.gstatic.com/s/chicle/v6/xg4q57Ut9ZmyFwLp51JLgg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chivo';
+      src: url('http://fonts.gstatic.com/s/chivo/v9/L88PEuzS9eRfHRZhAPhZyw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Chonburi';
+      src: url('http://fonts.gstatic.com/s/chonburi/v2/jd9PfbW0x_8Myt_XeUxvSQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cinzel';
+      src: url('http://fonts.gstatic.com/s/cinzel/v7/GF7dy_Nc-a6EaHYSyGd-EA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cinzel Decorative';
+      src: url('http://fonts.gstatic.com/s/cinzeldecorative/v6/fmgK7oaJJIXAkhd9798yQgT5USbJx2F82lQbogPy2bY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Clicker Script';
+      src: url('http://fonts.gstatic.com/s/clickerscript/v5/Zupmk8XwADjufGxWB9KThBnpV0hQCek3EmWnCPrvGRM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Coda';
+      src: url('http://fonts.gstatic.com/s/coda/v13/yHDvulhg-P-p2KRgRrnUYw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Coda Caption';
+      src: url('<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined property: stdClass::$regular in D:\Work\wamp\www\quickmode\google-fonts.php on line <i>23</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>247944</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='D:\Work\wamp\www\quickmode\google-fonts.php' bgcolor='#eeeeec'>...\google-fonts.php<b>:</b>0</td></tr>
+</table></font>
+');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Codystar';
+      src: url('http://fonts.gstatic.com/s/codystar/v5/EN-CPFKYowSI7SuR7-0cZA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Coiny';
+      src: url('http://fonts.gstatic.com/s/coiny/v3/B-pC9lRxssd2RDK37Rdekw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Combo';
+      src: url('http://fonts.gstatic.com/s/combo/v6/Nab98KjR3JZSSPGtzLyXNw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Comfortaa';
+      src: url('http://fonts.gstatic.com/s/comfortaa/v12/lZx6C1VViPgSOhCBUP7hXA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Coming Soon';
+      src: url('http://fonts.gstatic.com/s/comingsoon/v8/Yz2z3IAe2HSQAOWsSG8COKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Concert One';
+      src: url('http://fonts.gstatic.com/s/concertone/v8/N5IWCIGhUNdPZn_efTxKN6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Condiment';
+      src: url('http://fonts.gstatic.com/s/condiment/v5/CstmdiPpgFSV0FUNL5LrJA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Content';
+      src: url('http://fonts.gstatic.com/s/content/v9/l8qaLjygvOkDEU2G6-cjfQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Contrail One';
+      src: url('http://fonts.gstatic.com/s/contrailone/v7/b41KxjgiyqX-hkggANDU6C3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Convergence';
+      src: url('http://fonts.gstatic.com/s/convergence/v6/eykrGz1NN_YpQmkAZjW-qKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cookie';
+      src: url('http://fonts.gstatic.com/s/cookie/v8/HxeUC62y_YdDbiFlze357A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Copse';
+      src: url('http://fonts.gstatic.com/s/copse/v7/wikLrtPGjZDvZ5w2i5HLWg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Corben';
+      src: url('http://fonts.gstatic.com/s/corben/v11/tTysMZkt-j8Y5yhkgsoajQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cormorant';
+      src: url('http://fonts.gstatic.com/s/cormorant/v6/9vWr5LgrNEgvhv1P3z9uuQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cormorant Garamond';
+      src: url('http://fonts.gstatic.com/s/cormorantgaramond/v5/EI2hhCO6kSfLAy-Dpd8fd7_BES7rBA-D9Lo3vCx9yHc.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cormorant Infant';
+      src: url('http://fonts.gstatic.com/s/cormorantinfant/v5/q5F0I_a42y_qtMoOtqdjagGlf-pqPDOheSBqZOVpkRo.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cormorant SC';
+      src: url('http://fonts.gstatic.com/s/cormorantsc/v5/o2HxNCgvhmwJdltu-68tzC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cormorant Unicase';
+      src: url('http://fonts.gstatic.com/s/cormorantunicase/v5/THO7JMNV6qRoZlg7dU5RUz01TLsHlMvD1uPU3gXOh9s.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cormorant Upright';
+      src: url('http://fonts.gstatic.com/s/cormorantupright/v4/0n68kajKjTOJn9EPQkf1a-ojtTJJf2MtgkoRSid3NcM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Courgette';
+      src: url('http://fonts.gstatic.com/s/courgette/v5/2YO0EYtyE9HUPLZprahpZA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cousine';
+      src: url('http://fonts.gstatic.com/s/cousine/v12/GYX4bPXObJNJo63QJEUnLg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Coustard';
+      src: url('http://fonts.gstatic.com/s/coustard/v8/iO2Rs5PmqAEAXoU3SkMVBg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Covered By Your Grace';
+      src: url('http://fonts.gstatic.com/s/coveredbyyourgrace/v7/6ozZp4BPlrbDRWPe3EBGA6CVUMdvnk-GcAiZQrX9Gek.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Crafty Girls';
+      src: url('http://fonts.gstatic.com/s/craftygirls/v7/0Sv8UWFFdhQmesHL32H8oy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Creepster';
+      src: url('http://fonts.gstatic.com/s/creepster/v6/0vdr5kWJ6aJlOg5JvxnXzQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Crete Round';
+      src: url('http://fonts.gstatic.com/s/creteround/v6/B8EwN421qqOCCT8vOH4wJ6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Crimson Text';
+      src: url('http://fonts.gstatic.com/s/crimsontext/v8/3IFMwfRa07i-auYR-B-zNS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Croissant One';
+      src: url('http://fonts.gstatic.com/s/croissantone/v5/mPjsOObnC77fp1cvZlOfIYjjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Crushed';
+      src: url('http://fonts.gstatic.com/s/crushed/v8/aHwSejs3Kt0Lg95u7j32jA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cuprum';
+      src: url('http://fonts.gstatic.com/s/cuprum/v9/JgXs0F_UiaEdAS74msmFNg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cutive';
+      src: url('http://fonts.gstatic.com/s/cutive/v9/G2bW-ImyOCwKxBkLyz39YQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Cutive Mono';
+      src: url('http://fonts.gstatic.com/s/cutivemono/v6/ncWQtFVKcSs8OW798v30k6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Damion';
+      src: url('http://fonts.gstatic.com/s/damion/v7/13XtECwKxhD_VrOqXL4SiA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dancing Script';
+      src: url('http://fonts.gstatic.com/s/dancingscript/v9/DK0eTGXiZjN6yA8zAEyM2RnpV0hQCek3EmWnCPrvGRM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dangrek';
+      src: url('http://fonts.gstatic.com/s/dangrek/v9/LOaFhBT-EHNxZjV8DAW_ew.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'David Libre';
+      src: url('http://fonts.gstatic.com/s/davidlibre/v2/Fp_YuX4CP0pzlSUtACdOo6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dawning of a New Day';
+      src: url('http://fonts.gstatic.com/s/dawningofanewday/v8/JiDsRhiKZt8uz3NJ5xA06gXLnohmOYWQZqo_sW8GLTk.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Days One';
+      src: url('http://fonts.gstatic.com/s/daysone/v7/kzwZjNhc1iabMsrc_hKBIA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dekko';
+      src: url('http://fonts.gstatic.com/s/dekko/v4/AKtgABKC1rUxgIgS-bpojw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Delius';
+      src: url('http://fonts.gstatic.com/s/delius/v7/TQA163qafki2-gV-B6F_ag.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Delius Swash Caps';
+      src: url('http://fonts.gstatic.com/s/deliusswashcaps/v9/uXyrEUnoWApxIOICunRq7yIrxb5zDVgU2N3VzXm7zq4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Delius Unicase';
+      src: url('http://fonts.gstatic.com/s/deliusunicase/v10/b2sKujV3Q48RV2PQ0k1vqu6rPKfVZo7L2bERcf0BDns.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Della Respira';
+      src: url('http://fonts.gstatic.com/s/dellarespira/v5/F4E6Lo_IZ6L9AJCcbqtDVeDcg5akpSnIcsPhLOFv7l8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Denk One';
+      src: url('http://fonts.gstatic.com/s/denkone/v5/TdXOeA4eA_hEx4W8Sh9wPw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Devonshire';
+      src: url('http://fonts.gstatic.com/s/devonshire/v6/I3ct_2t12SYizP8ZC-KFi_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dhurjati';
+      src: url('http://fonts.gstatic.com/s/dhurjati/v5/uV6jO5e2iFMbGB0z79Cy5g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Didact Gothic';
+      src: url('http://fonts.gstatic.com/s/didactgothic/v11/v8_72sD3DYMKyM0dn3LtWotBLojGU5Qdl8-5NL4v70w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Diplomata';
+      src: url('http://fonts.gstatic.com/s/diplomata/v9/u-ByBiKgN6rTMA36H3kcKg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Diplomata SC';
+      src: url('http://fonts.gstatic.com/s/diplomatasc/v6/JdVwAwfE1a_pahXjk5qpNi3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Domine';
+      src: url('http://fonts.gstatic.com/s/domine/v5/wfVIgamVFjMNQAEWurCiHA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Donegal One';
+      src: url('http://fonts.gstatic.com/s/donegalone/v5/6kN4-fDxz7T9s5U61HwfF6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Doppio One';
+      src: url('http://fonts.gstatic.com/s/doppioone/v5/WHZ3HJQotpk_4aSMNBo_t_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dorsa';
+      src: url('http://fonts.gstatic.com/s/dorsa/v8/wCc3cUe6XrmG2LQE6GlIrw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dosis';
+      src: url('http://fonts.gstatic.com/s/dosis/v7/rJRlixu-w0JZ1MyhJpao_Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dr Sugiyama';
+      src: url('http://fonts.gstatic.com/s/drsugiyama/v6/S5Yx3MIckgoyHhhS4C9Tv6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Duru Sans';
+      src: url('http://fonts.gstatic.com/s/durusans/v10/xn7iYH8xwmSyTvEV_HOxTw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Dynalight';
+      src: url('http://fonts.gstatic.com/s/dynalight/v6/-CWsIe8OUDWTIHjSAh41kA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'EB Garamond';
+      src: url('http://fonts.gstatic.com/s/ebgaramond/v9/CDR0kuiFK7I1OZ2hSdR7G6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Eagle Lake';
+      src: url('http://fonts.gstatic.com/s/eaglelake/v5/ZKlYin7caemhx9eSg6RvPfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Eater';
+      src: url('http://fonts.gstatic.com/s/eater/v6/gm6f3OmYEdbs3lPQtUfBkA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Economica';
+      src: url('http://fonts.gstatic.com/s/economica/v5/G4rJRujzZbq9Nxngu9l3hg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Eczar';
+      src: url('http://fonts.gstatic.com/s/eczar/v6/uKZcAQ5JBBs1UbeXFRbBRg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'El Messiri';
+      src: url('http://fonts.gstatic.com/s/elmessiri/v2/dik94vfrFvHFnvdvxaX8N_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Electrolize';
+      src: url('http://fonts.gstatic.com/s/electrolize/v6/yFVu5iokC-nt4B1Cyfxb9aCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Elsie';
+      src: url('http://fonts.gstatic.com/s/elsie/v7/gwspePauE45BJu6Ok1QrfQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Elsie Swash Caps';
+      src: url('http://fonts.gstatic.com/s/elsieswashcaps/v6/9L3hIJMPCf6sxCltnxd6X2YeFSdnSpRYv5h9gpdlD1g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Emblema One';
+      src: url('http://fonts.gstatic.com/s/emblemaone/v6/7IlBUjBWPIiw7cr_O2IfSaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Emilys Candy';
+      src: url('http://fonts.gstatic.com/s/emilyscandy/v5/PofLVm6v1SwZGOzC8s-I3S3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Encode Sans';
+      src: url('http://fonts.gstatic.com/s/encodesans/v2/xpYstnmVhPpbvOHKD75EK6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Encode Sans Condensed';
+      src: url('http://fonts.gstatic.com/s/encodesanscondensed/v2/CbFzpyBSY4j-AYSd59uzHIelbRYnLTTQA1Z5cVLnsI4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Encode Sans Expanded';
+      src: url('http://fonts.gstatic.com/s/encodesansexpanded/v2/OdOWbHhxwo9XAUoeS5o4Dg7dxr0N5HY0cZKknTIL6n4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Encode Sans Semi Condensed';
+      src: url('http://fonts.gstatic.com/s/encodesanssemicondensed/v2/70xnFP2R6L67b4lbb0LqFQ760Nu0ZmWpK1JTCHVCKHz3rGVtsTkPsbDajuO5ueQw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Encode Sans Semi Expanded';
+      src: url('http://fonts.gstatic.com/s/encodesanssemiexpanded/v2/L50h_XWfeGcmQgSaLLv8qDl-hG_EEbQLBeCEvsoBv9c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Engagement';
+      src: url('http://fonts.gstatic.com/s/engagement/v6/4Uz0Jii7oVPcaFRYmbpU6vesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Englebert';
+      src: url('http://fonts.gstatic.com/s/englebert/v5/sll38iOvOuarDTYBchlP3Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Enriqueta';
+      src: url('http://fonts.gstatic.com/s/enriqueta/v6/_p90TrIwR1SC-vDKtmrv6A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Erica One';
+      src: url('http://fonts.gstatic.com/s/ericaone/v8/cIBnH2VAqQMIGYAcE4ufvQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Esteban';
+      src: url('http://fonts.gstatic.com/s/esteban/v5/ESyhLgqDDyK5JcFPp2svDw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Euphoria Script';
+      src: url('http://fonts.gstatic.com/s/euphoriascript/v5/c4XB4Iijj_NvSsCF4I0O2MxLhO8OSNnfAp53LK1_iRs.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ewert';
+      src: url('http://fonts.gstatic.com/s/ewert/v5/Em8hrzuzSbfHcTVqMjbAQg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Exo';
+      src: url('http://fonts.gstatic.com/s/exo/v6/eUEzTFueNXRVhbt4PEB8kQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Exo 2';
+      src: url('http://fonts.gstatic.com/s/exo2/v4/Pf_kZuIH5c5WKVkQUaeSWQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Expletus Sans';
+      src: url('http://fonts.gstatic.com/s/expletussans/v10/gegTSDBDs5le3g6uxU1ZsX8f0n03UdmQgF_CLvNR2vg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fanwood Text';
+      src: url('http://fonts.gstatic.com/s/fanwoodtext/v7/hDNDHUlsSb8bgnEmDp4T_i3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Farsan';
+      src: url('http://fonts.gstatic.com/s/farsan/v3/Hdf9Y76SQ6e1X0Nqk3rHtw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fascinate';
+      src: url('http://fonts.gstatic.com/s/fascinate/v6/ZE0637WWkBPKt1AmFaqD3Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fascinate Inline';
+      src: url('http://fonts.gstatic.com/s/fascinateinline/v7/lRguYfMfWArflkm5aOQ5QJmp8DTZ6iHear7UV05iykg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Faster One';
+      src: url('http://fonts.gstatic.com/s/fasterone/v8/H4ciBXCHmdfClFb-vWhfyLs.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fasthand';
+      src: url('http://fonts.gstatic.com/s/fasthand/v8/6XAagHH_KmpZL67wTvsETQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fauna One';
+      src: url('http://fonts.gstatic.com/s/faunaone/v5/8kL-wpAPofcAMELI_5NRnQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Faustina';
+      src: url('http://fonts.gstatic.com/s/faustina/v2/VG2SxiuKreAgH5lXZ5wbng.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Federant';
+      src: url('http://fonts.gstatic.com/s/federant/v9/tddZFSiGvxICNOGra0i5aA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Federo';
+      src: url('http://fonts.gstatic.com/s/federo/v9/JPhe1S2tujeyaR79gXBLeQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Felipa';
+      src: url('http://fonts.gstatic.com/s/felipa/v5/SeyfyFZY7abAQXGrOIYnYg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fenix';
+      src: url('http://fonts.gstatic.com/s/fenix/v5/Ak8wR3VSlAN7VN_eMeJj7Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Finger Paint';
+      src: url('http://fonts.gstatic.com/s/fingerpaint/v7/m_ZRbiY-aPb13R3DWPBGXy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fira Mono';
+      src: url('http://fonts.gstatic.com/s/firamono/v6/WQOm1D4RO-yvA9q9trJc8g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fira Sans';
+      src: url('http://fonts.gstatic.com/s/firasans/v8/nsT0isDy56OkSX99sFQbXw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fira Sans Condensed';
+      src: url('http://fonts.gstatic.com/s/firasanscondensed/v2/HQGj1o4-qj8agzakWWMQw0b2huS6PSilRpwXI3qYZmg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fira Sans Extra Condensed';
+      src: url('http://fonts.gstatic.com/s/firasansextracondensed/v2/wg_5XrW_o1_ZfuCbAkBfGRreEc6WSk_gssVJg3w2ARQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fjalla One';
+      src: url('http://fonts.gstatic.com/s/fjallaone/v5/3b7vWCfOZsU53vMa8LWsf_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fjord One';
+      src: url('http://fonts.gstatic.com/s/fjordone/v6/R_YHK8au2uFPw5tNu5N7zw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Flamenco';
+      src: url('http://fonts.gstatic.com/s/flamenco/v8/HC0ugfLLgt26I5_BWD1PZA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Flavors';
+      src: url('http://fonts.gstatic.com/s/flavors/v6/SPJi5QclATvon8ExcKGRvQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fondamento';
+      src: url('http://fonts.gstatic.com/s/fondamento/v7/6LWXcjT1B7bnWluAOSNfMPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fontdiner Swanky';
+      src: url('http://fonts.gstatic.com/s/fontdinerswanky/v8/8_GxIO5ixMtn5P6COsF3TlBjMPLzPAFJwRBn-s1U7kA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Forum';
+      src: url('http://fonts.gstatic.com/s/forum/v8/MZUpsq1VfLrqv8eSDcbrrQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Francois One';
+      src: url('http://fonts.gstatic.com/s/francoisone/v11/bYbkq2nU2TSx4SwFbz5sCC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Frank Ruhl Libre';
+      src: url('http://fonts.gstatic.com/s/frankruhllibre/v3/yDLloNqBpFmakCImLv4OJkfFI6QBbouvcOFcz81E3Ek.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Freckle Face';
+      src: url('http://fonts.gstatic.com/s/freckleface/v5/7-B8j9BPJgazdHIGqPNv8y3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fredericka the Great';
+      src: url('http://fonts.gstatic.com/s/frederickathegreat/v6/7Es8Lxoku-e5eOZWpxw18nrnet6gXN1McwdQxS1dVrI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fredoka One';
+      src: url('http://fonts.gstatic.com/s/fredokaone/v5/QKfwXi-z-KtJAlnO2ethYqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Freehand';
+      src: url('http://fonts.gstatic.com/s/freehand/v9/uEBQxvA0lnn_BrD6krlxMw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fresca';
+      src: url('http://fonts.gstatic.com/s/fresca/v6/2q7Qm9sCo1tWvVgSDVWNIw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Frijole';
+      src: url('http://fonts.gstatic.com/s/frijole/v6/L2MfZse-2gCascuD-nLhWg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fruktur';
+      src: url('http://fonts.gstatic.com/s/fruktur/v10/PnQvfEi1LssAvhJsCwH__w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Fugaz One';
+      src: url('http://fonts.gstatic.com/s/fugazone/v7/5tteVDCwxsr8-5RuSiRWOw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'GFS Didot';
+      src: url('http://fonts.gstatic.com/s/gfsdidot/v7/jQKxZy2RU-h9tkPZcRVluA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'GFS Neohellenic';
+      src: url('http://fonts.gstatic.com/s/gfsneohellenic/v8/B4xRqbn-tANVqVgamMsSDiayCZa0z7CpFzlkqoCHztc.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gabriela';
+      src: url('http://fonts.gstatic.com/s/gabriela/v6/B-2ZfbAO3HDrxqV6lR5tdA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gafata';
+      src: url('http://fonts.gstatic.com/s/gafata/v6/aTFqlki_3Dc3geo-FxHTvQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Galada';
+      src: url('http://fonts.gstatic.com/s/galada/v3/xGkllHQb8OOCv9VJ6IObSA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Galdeano';
+      src: url('http://fonts.gstatic.com/s/galdeano/v7/ZKFMQI6HxEG1jOT0UGSZUg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Galindo';
+      src: url('http://fonts.gstatic.com/s/galindo/v5/2lafAS_ZEfB33OJryhXDUg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gentium Basic';
+      src: url('http://fonts.gstatic.com/s/gentiumbasic/v9/KCktj43blvLkhOTolFn-MYtBLojGU5Qdl8-5NL4v70w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gentium Book Basic';
+      src: url('http://fonts.gstatic.com/s/gentiumbookbasic/v8/IRFxB2matTxrjZt6a3FUnrWDjKAyldGEr6eEi2MBNeY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Geo';
+      src: url('http://fonts.gstatic.com/s/geo/v9/mJuJYk5Pww84B4uHAQ1XaA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Geostar';
+      src: url('http://fonts.gstatic.com/s/geostar/v7/A8WQbhQbpYx3GWWaShJ9GA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Geostar Fill';
+      src: url('http://fonts.gstatic.com/s/geostarfill/v7/Y5ovXPPOHYTfQzK2aM-hui3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Germania One';
+      src: url('http://fonts.gstatic.com/s/germaniaone/v5/3_6AyUql_-FbDi1e68jHdC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gidugu';
+      src: url('http://fonts.gstatic.com/s/gidugu/v4/Ey6Eq3hrT6MM58iFItFcgw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gilda Display';
+      src: url('http://fonts.gstatic.com/s/gildadisplay/v5/8yAVUZLLZ3wb7dSsjix0CADHmap7fRWINAsw8-RaxNg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Give You Glory';
+      src: url('http://fonts.gstatic.com/s/giveyouglory/v7/DFEWZFgGmfseyIdGRJAxuBwwkpSPZdvjnMtysdqprfI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Glass Antiqua';
+      src: url('http://fonts.gstatic.com/s/glassantiqua/v5/0yLrXKplgdUDIMz5TnCHNODcg5akpSnIcsPhLOFv7l8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Glegoo';
+      src: url('http://fonts.gstatic.com/s/glegoo/v6/2tf-h3n2A_SNYXEO0C8bKw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gloria Hallelujah';
+      src: url('http://fonts.gstatic.com/s/gloriahallelujah/v9/CA1k7SlXcY5kvI81M_R28Q3RdPdyebSUyJECJouPsvA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Goblin One';
+      src: url('http://fonts.gstatic.com/s/goblinone/v7/331XtzoXgpVEvNTVcBJ_C_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gochi Hand';
+      src: url('http://fonts.gstatic.com/s/gochihand/v8/KT1-WxgHsittJ34_20IfAPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gorditas';
+      src: url('http://fonts.gstatic.com/s/gorditas/v5/uMgZhXUyH6qNGF3QsjQT5Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Goudy Bookletter 1911';
+      src: url('http://fonts.gstatic.com/s/goudybookletter1911/v7/l5lwlGTN3pEY5Bf-rQEuIIjNDsyURsIKu4GSfvSE4mA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Graduate';
+      src: url('http://fonts.gstatic.com/s/graduate/v5/JpAmYLHqcIh9_Ff35HHwiA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Grand Hotel';
+      src: url('http://fonts.gstatic.com/s/grandhotel/v5/C_A8HiFZjXPpnMt38XnK7qCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gravitas One';
+      src: url('http://fonts.gstatic.com/s/gravitasone/v7/nBHdBv6zVNU8MtP6w9FwTS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Great Vibes';
+      src: url('http://fonts.gstatic.com/s/greatvibes/v5/4Mi5RG_9LjQYrTU55GN_L6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Griffy';
+      src: url('http://fonts.gstatic.com/s/griffy/v5/vWkyYGBSyE5xjnShNtJtzw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gruppo';
+      src: url('http://fonts.gstatic.com/s/gruppo/v8/pS_JM0cK_piBZve-lfUq9w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gudea';
+      src: url('http://fonts.gstatic.com/s/gudea/v5/S-4QqBlkMPiiA3jNeCR5yw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Gurajada';
+      src: url('http://fonts.gstatic.com/s/gurajada/v5/6Adfkl4PCRyq6XTENACEyA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Habibi';
+      src: url('http://fonts.gstatic.com/s/habibi/v6/YYyqXF6pWpL7kmKgS_2iUA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Halant';
+      src: url('http://fonts.gstatic.com/s/halant/v4/rEs7Jk3SVyt3cTx6DoTu1w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hammersmith One';
+      src: url('http://fonts.gstatic.com/s/hammersmithone/v8/FWNn6ITYqL6or7ZTmBxRhjjVlsJB_M_Q_LtZxsoxvlw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hanalei';
+      src: url('http://fonts.gstatic.com/s/hanalei/v7/Sx8vVMBnXSQyK6Cn0CBJ3A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hanalei Fill';
+      src: url('http://fonts.gstatic.com/s/hanaleifill/v6/5uPeWLnaDdtm4UBG26Ds6C3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Handlee';
+      src: url('http://fonts.gstatic.com/s/handlee/v6/6OfkXkyC0E5NZN80ED8u3A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hanuman';
+      src: url('http://fonts.gstatic.com/s/hanuman/v11/hRhwOGGmElJSl6KSPvEnOQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Happy Monkey';
+      src: url('http://fonts.gstatic.com/s/happymonkey/v6/c2o0ps8nkBmaOYctqBq1rS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Harmattan';
+      src: url('http://fonts.gstatic.com/s/harmattan/v2/xNM1nDKzsLfoCLQtMRztGA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Headland One';
+      src: url('http://fonts.gstatic.com/s/headlandone/v5/iGmBeOvQGfq9DSbjJ8jDVy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Heebo';
+      src: url('http://fonts.gstatic.com/s/heebo/v3/nyHCGMPliplPNqpssbDSIA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Henny Penny';
+      src: url('http://fonts.gstatic.com/s/hennypenny/v5/XRgo3ogXyi3tpsFfjImRF6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Herr Von Muellerhoff';
+      src: url('http://fonts.gstatic.com/s/herrvonmuellerhoff/v7/mmy24EUmk4tjm4gAEjUd7NLGIYrUsBdh-JWHYgiDiMU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hind';
+      src: url('http://fonts.gstatic.com/s/hind/v8/mktFHh5Z5P9YjGKSslSUtA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hind Guntur';
+      src: url('http://fonts.gstatic.com/s/hindguntur/v3/MXz-KyAeVZstlFz6v-5SC6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hind Madurai';
+      src: url('http://fonts.gstatic.com/s/hindmadurai/v3/pJpl47LatORZNWf8rgdiyS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hind Siliguri';
+      src: url('http://fonts.gstatic.com/s/hindsiliguri/v4/f2eEi2pbIa8eBfNwpUl0Am_MnNA9OgK8I1F23mNWOpE.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Hind Vadodara';
+      src: url('http://fonts.gstatic.com/s/hindvadodara/v4/9c6KKeibr6NtFqknnNxZB-Dcg5akpSnIcsPhLOFv7l8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Holtwood One SC';
+      src: url('http://fonts.gstatic.com/s/holtwoodonesc/v8/sToOq3cIxbfnhbEkgYNuBbAgSRh1LpJXlLfl8IbsmHg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Homemade Apple';
+      src: url('http://fonts.gstatic.com/s/homemadeapple/v8/yg3UMEsefgZ8IHz_ryz86BiPOmFWYV1WlrJkRafc4c0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Homenaje';
+      src: url('http://fonts.gstatic.com/s/homenaje/v7/v0YBU0iBRrGdVjDNQILxtA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell DW Pica';
+      src: url('http://fonts.gstatic.com/s/imfelldwpica/v7/W81bfaWiUicLSPbJhW-ATsA5qm663gJGVdtpamafG5A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell DW Pica SC';
+      src: url('http://fonts.gstatic.com/s/imfelldwpicasc/v7/xBKKJV4z2KsrtQnmjGO17JZ9RBdEL0H9o5qzT1Rtof4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell Double Pica';
+      src: url('http://fonts.gstatic.com/s/imfelldoublepica/v7/yN1wY_01BkQnO0LYAhXdUol14jEdVOhEmvtCMCVwYak.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell Double Pica SC';
+      src: url('http://fonts.gstatic.com/s/imfelldoublepicasc/v7/jkrUtrLFpMw4ZazhfkKsGwc4LoC4OJUqLw9omnT3VOU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell English';
+      src: url('http://fonts.gstatic.com/s/imfellenglish/v7/xwIisCqGFi8pff-oa9uSVHGNmx1fDm-u2eBJHQkdrmk.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell English SC';
+      src: url('http://fonts.gstatic.com/s/imfellenglishsc/v7/h3Tn6yWfw4b5qaLD1RWvz5ATixNthKRRR1XVH3rJNiw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell French Canon';
+      src: url('http://fonts.gstatic.com/s/imfellfrenchcanon/v7/iKB0WL1BagSpNPz3NLMdsJ3V2FNpBrlLSvqUnERhBP8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell French Canon SC';
+      src: url('http://fonts.gstatic.com/s/imfellfrenchcanonsc/v7/kA3bS19-tQbeT_iG32EZmaiyyzHwYrAbmNulTz423iM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell Great Primer';
+      src: url('http://fonts.gstatic.com/s/imfellgreatprimer/v7/AL8ALGNthei20f9Cu3e93rgeX3ROgtTz44CitKAxzKI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'IM Fell Great Primer SC';
+      src: url('http://fonts.gstatic.com/s/imfellgreatprimersc/v7/A313vRj97hMMGFjt6rgSJtRg-ciw1Y27JeXb2Zv4lZQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Iceberg';
+      src: url('http://fonts.gstatic.com/s/iceberg/v5/p2XVm4M-N0AOEEOymFKC5w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Iceland';
+      src: url('http://fonts.gstatic.com/s/iceland/v6/kq3uTMGgvzWGNi39B_WxGA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Imprima';
+      src: url('http://fonts.gstatic.com/s/imprima/v5/eRjquWLjwLGnTEhLH7u3kA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Inconsolata';
+      src: url('http://fonts.gstatic.com/s/inconsolata/v16/7bMKuoy6Nh0ft0SHnIGMuaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Inder';
+      src: url('http://fonts.gstatic.com/s/inder/v6/C38TwecLTfKxIHDc_Adcrw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Indie Flower';
+      src: url('http://fonts.gstatic.com/s/indieflower/v9/10JVD_humAd5zP2yrFqw6i3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Inika';
+      src: url('http://fonts.gstatic.com/s/inika/v5/eZCrULQGaIxkrRoGz_DjhQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Inknut Antiqua';
+      src: url('http://fonts.gstatic.com/s/inknutantiqua/v3/VlmmTfOrxr3HfcnhMueX9arFJ4O13IHVxZbM6yoslpo.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Irish Grover';
+      src: url('http://fonts.gstatic.com/s/irishgrover/v8/kUp7uUPooL-KsLGzeVJbBC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Istok Web';
+      src: url('http://fonts.gstatic.com/s/istokweb/v11/RYLSjEXQ0nNtLLc4n7--dQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Italiana';
+      src: url('http://fonts.gstatic.com/s/italiana/v6/dt95fkCSTOF-c6QNjwSycA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Italianno';
+      src: url('http://fonts.gstatic.com/s/italianno/v7/HsyHnLpKf8uP7aMpDQHZmg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Itim';
+      src: url('http://fonts.gstatic.com/s/itim/v2/HHV9WK2x5lUkc5bxMXG8Tw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jacques Francois';
+      src: url('http://fonts.gstatic.com/s/jacquesfrancois/v5/_-0XWPQIW6tOzTHg4KaJ_M13D_4KM32Q4UmTSjpuNGQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jacques Francois Shadow';
+      src: url('http://fonts.gstatic.com/s/jacquesfrancoisshadow/v5/V14y0H3vq56fY9SV4OL_FASt0D_oLVawA8L8b9iKjbs.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jaldi';
+      src: url('http://fonts.gstatic.com/s/jaldi/v3/x1vR-bPW9a1EB-BUVqttCw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jim Nightshade';
+      src: url('http://fonts.gstatic.com/s/jimnightshade/v5/_n43lYHXVWNgXegdYRIK9CF1W_bo0EdycfH0kHciIic.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jockey One';
+      src: url('http://fonts.gstatic.com/s/jockeyone/v7/cAucnOZLvFo07w2AbufBCfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jolly Lodger';
+      src: url('http://fonts.gstatic.com/s/jollylodger/v5/RX8HnkBgaEKQSHQyP9itiS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jomhuria';
+      src: url('http://fonts.gstatic.com/s/jomhuria/v3/hrvsccQpBliIgor15WxE6g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Josefin Sans';
+      src: url('http://fonts.gstatic.com/s/josefinsans/v12/xgzbb53t8j-Mo-vYa23n5i3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Josefin Slab';
+      src: url('http://fonts.gstatic.com/s/josefinslab/v8/46aYWdgz-1oFX11flmyEfS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Joti One';
+      src: url('http://fonts.gstatic.com/s/jotione/v5/P3r_Th0ESHJdzunsvWgUfQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Judson';
+      src: url('http://fonts.gstatic.com/s/judson/v10/znM1AAs0eytUaJzf1CrYZQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Julee';
+      src: url('http://fonts.gstatic.com/s/julee/v7/CAib-jsUsSO8SvVRnE9fHA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Julius Sans One';
+      src: url('http://fonts.gstatic.com/s/juliussansone/v6/iU65JP9acQHPDLkdalCF7jjVlsJB_M_Q_LtZxsoxvlw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Junge';
+      src: url('http://fonts.gstatic.com/s/junge/v5/j4IXCXtxrw9qIBheercp3A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Jura';
+      src: url('http://fonts.gstatic.com/s/jura/v9/YAWMwF3sN0KCbynMq-Yr_Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Just Another Hand';
+      src: url('http://fonts.gstatic.com/s/justanotherhand/v9/fKV8XYuRNNagXr38eqbRf99BnJIEGrvoojniP57E51c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Just Me Again Down Here';
+      src: url('http://fonts.gstatic.com/s/justmeagaindownhere/v9/sN06iTc9ITubLTgXoG-kc3M9eVLpVTSK6TqZTIgBrWQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kadwa';
+      src: url('http://fonts.gstatic.com/s/kadwa/v2/VwEN8oKGqaa0ug9kRpvSSg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kalam';
+      src: url('http://fonts.gstatic.com/s/kalam/v8/hNEJkp2K-aql7e5WQish4Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kameron';
+      src: url('http://fonts.gstatic.com/s/kameron/v8/9r8HYhqDSwcq9WMjupL82A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kanit';
+      src: url('http://fonts.gstatic.com/s/kanit/v3/L6VKvM17ZmevDynOiw7H9w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kantumruy';
+      src: url('http://fonts.gstatic.com/s/kantumruy/v4/kQfXNYElQxr5dS8FyjD39Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Karla';
+      src: url('http://fonts.gstatic.com/s/karla/v6/78UgGRwJFkhqaoFimqoKpQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Karma';
+      src: url('http://fonts.gstatic.com/s/karma/v7/wvqTxAGBUrTqU0urTEoPIw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Katibeh';
+      src: url('http://fonts.gstatic.com/s/katibeh/v3/Q-SA43uWR2uu3wBIvedotA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kaushan Script';
+      src: url('http://fonts.gstatic.com/s/kaushanscript/v6/qx1LSqts-NtiKcLw4N03IBnpV0hQCek3EmWnCPrvGRM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kavivanar';
+      src: url('http://fonts.gstatic.com/s/kavivanar/v3/VLDrdUtF1irKFc8rFWgDaw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kavoon';
+      src: url('http://fonts.gstatic.com/s/kavoon/v6/382m-6baKXqJFQjEgobt6Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kdam Thmor';
+      src: url('http://fonts.gstatic.com/s/kdamthmor/v4/otCdP6UU-VBIrBfVDWBQJ_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Keania One';
+      src: url('http://fonts.gstatic.com/s/keaniaone/v5/PACrDKZWngXzgo-ucl6buvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kelly Slab';
+      src: url('http://fonts.gstatic.com/s/kellyslab/v7/F_2oS1e9XdYx1MAi8XEVefesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kenia';
+      src: url('http://fonts.gstatic.com/s/kenia/v9/OLM9-XfITK9PsTLKbGBrwg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Khand';
+      src: url('http://fonts.gstatic.com/s/khand/v6/HdLdTNFqNIDGJZl1ZEj84w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Khmer';
+      src: url('http://fonts.gstatic.com/s/khmer/v10/vWaBJIbaQuBNz02ALIKJ3A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Khula';
+      src: url('http://fonts.gstatic.com/s/khula/v3/izcPIFyCSd16XI1Ak_Wk7Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kite One';
+      src: url('http://fonts.gstatic.com/s/kiteone/v5/8ojWmgUc97m0f_i6sTqLoQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Knewave';
+      src: url('http://fonts.gstatic.com/s/knewave/v6/KGHM4XWr4iKnBMqzZLkPBg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kotta One';
+      src: url('http://fonts.gstatic.com/s/kottaone/v5/AB2Q7hVw6niJYDgLvFXu5w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Koulen';
+      src: url('http://fonts.gstatic.com/s/koulen/v11/AAYOK8RSRO7FTskTzFuzNw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kranky';
+      src: url('http://fonts.gstatic.com/s/kranky/v8/C8dxxTS99-fZ84vWk8SDrg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kreon';
+      src: url('http://fonts.gstatic.com/s/kreon/v11/zA_IZt0u0S3cvHJu-n1oEg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kristi';
+      src: url('http://fonts.gstatic.com/s/kristi/v9/aRsgBQrkQkMlu4UPSnJyOQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Krona One';
+      src: url('http://fonts.gstatic.com/s/kronaone/v5/zcQj4ljqTo166AdourlF9w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kumar One';
+      src: url('http://fonts.gstatic.com/s/kumarone/v2/YmcJD6Wky1clGYY5OD-BkQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kumar One Outline';
+      src: url('http://fonts.gstatic.com/s/kumaroneoutline/v2/hnQF47H-55qiLAGgq7C3QyxhoCTLJoiJ-y-zew8F8j0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Kurale';
+      src: url('http://fonts.gstatic.com/s/kurale/v3/rxeyIcvQlT4XAWwNbXFCfw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'La Belle Aurore';
+      src: url('http://fonts.gstatic.com/s/labelleaurore/v8/Irdbc4ASuUoWDjd_Wc3md123K2iuuhwZgaKapkyRTY8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Laila';
+      src: url('http://fonts.gstatic.com/s/laila/v4/6iYor3edprH7360qtBGoag.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lakki Reddy';
+      src: url('http://fonts.gstatic.com/s/lakkireddy/v4/Q5EpFa91FjW37t0FCnedaKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lalezar';
+      src: url('http://fonts.gstatic.com/s/lalezar/v2/k4_MPf09PGmL7oyGdPKwcg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lancelot';
+      src: url('http://fonts.gstatic.com/s/lancelot/v7/XMT7T_oo_MQUGAnU2v-sdA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lateef';
+      src: url('http://fonts.gstatic.com/s/lateef/v11/PAsKCgi1qc7XPwvzo_I-DQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lato';
+      src: url('http://fonts.gstatic.com/s/lato/v14/h7rISIcQapZBpei-sXwIwg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'League Script';
+      src: url('http://fonts.gstatic.com/s/leaguescript/v8/wnRFLvfabWK_DauqppD6vSeUSrabuTpOsMEiRLtKwk0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Leckerli One';
+      src: url('http://fonts.gstatic.com/s/leckerlione/v8/S2Y_iLrItTu8kIJTkS7DrC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ledger';
+      src: url('http://fonts.gstatic.com/s/ledger/v5/G432jp-tahOfWHbCYkI0jw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lekton';
+      src: url('http://fonts.gstatic.com/s/lekton/v8/r483JYmxf5PjIm4jVAm8Yg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lemon';
+      src: url('http://fonts.gstatic.com/s/lemon/v6/wed1nNu4LNSu-3RoRVUhUw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lemonada';
+      src: url('http://fonts.gstatic.com/s/lemonada/v3/pkzws3AUXmaaAzOi7aydSQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Barcode 128';
+      src: url('http://fonts.gstatic.com/s/librebarcode128/v5/mJ_rGOyyL62_i4eysdBvxEaNJhdpbyHQuRiGjlHceQo.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Barcode 128 Text';
+      src: url('http://fonts.gstatic.com/s/librebarcode128text/v5/T1o66XlW_PeuHiRa8wDOJDfWl2h5aCwBu15s5iWPtdk.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Barcode 39';
+      src: url('http://fonts.gstatic.com/s/librebarcode39/v5/tsmYkcVN_FjeCmyWhRNQuDLD7PrtP9qwC5bVQ-6ZBpw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Barcode 39 Extended';
+      src: url('http://fonts.gstatic.com/s/librebarcode39extended/v4/fb2-vuy0PLrmtXyLBPV4KGYAiLTSvZR2kkYPJthhKEg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Barcode 39 Extended Text';
+      src: url('http://fonts.gstatic.com/s/librebarcode39extendedtext/v4/wJsqK3E245PKDhdHYS7MabGP_8dGDh0UJYBW4DYg-cv00s133LT-tR5tU-vU7gLU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Barcode 39 Text';
+      src: url('http://fonts.gstatic.com/s/librebarcode39text/v5/O4inMvtTcDsw_GI-nhT1nhLP3W-fKNeNuxNx_t55A8U.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Baskerville';
+      src: url('http://fonts.gstatic.com/s/librebaskerville/v5/pR0sBQVcY0JZc_ciXjFsKyyZRYCSvpCzQKuMWnP5NDY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Libre Franklin';
+      src: url('http://fonts.gstatic.com/s/librefranklin/v2/PFwjf3aDdAQPvNKUrT3U7_fSnedoLXQQjURyDxluu8g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Life Savers';
+      src: url('http://fonts.gstatic.com/s/lifesavers/v7/g49cUDk4Y1P0G5NMkMAm7qCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lilita One';
+      src: url('http://fonts.gstatic.com/s/lilitaone/v5/vTxJQjbNV6BCBHx8sGDCVvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lily Script One';
+      src: url('http://fonts.gstatic.com/s/lilyscriptone/v5/uPWsLVW8uiXqIBnE8ZwGPDjVlsJB_M_Q_LtZxsoxvlw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Limelight';
+      src: url('http://fonts.gstatic.com/s/limelight/v8/5dTfN6igsXjLjOy8QQShcg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Linden Hill';
+      src: url('http://fonts.gstatic.com/s/lindenhill/v7/UgsC0txqd-E1yjvjutwm_KCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lobster';
+      src: url('http://fonts.gstatic.com/s/lobster/v20/9LpJGtNuM1D8FAZ2BkJH2Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lobster Two';
+      src: url('http://fonts.gstatic.com/s/lobstertwo/v10/xb9aY4w9ceh8JRzobID1naCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Londrina Outline';
+      src: url('http://fonts.gstatic.com/s/londrinaoutline/v8/lls08GOa1eT74p072l1AWJmp8DTZ6iHear7UV05iykg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Londrina Shadow';
+      src: url('http://fonts.gstatic.com/s/londrinashadow/v6/dNYuzPS_7eYgXFJBzMoKdbw6Z3rVA5KDSi7aQxS92Nk.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Londrina Sketch';
+      src: url('http://fonts.gstatic.com/s/londrinasketch/v6/p7Ai06aT1Ycp_D2fyE3z69d6z_uhFGnpCOifUY1fJQo.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Londrina Solid';
+      src: url('http://fonts.gstatic.com/s/londrinasolid/v6/yysorIEiYSBb0ylZjg791MR125CwGqh8XBqkBzea0LA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lora';
+      src: url('http://fonts.gstatic.com/s/lora/v12/aXJ7KVIGcejEy1abawZazg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Love Ya Like A Sister';
+      src: url('http://fonts.gstatic.com/s/loveyalikeasister/v8/LzkxWS-af0Br2Sk_YgSJY-ad1xEP8DQfgfY8MH9aBUg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Loved by the King';
+      src: url('http://fonts.gstatic.com/s/lovedbytheking/v7/wg03xD4cWigj4YDufLBSr8io2AFEwwMpu7y5KyiyAJc.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lovers Quarrel';
+      src: url('http://fonts.gstatic.com/s/loversquarrel/v5/gipdZ8b7pKb89MzQLAtJHLHLxci2ElvNEmOB303HLk0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Luckiest Guy';
+      src: url('http://fonts.gstatic.com/s/luckiestguy/v8/5718gH8nDy3hFVihOpkY5C3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lusitana';
+      src: url('http://fonts.gstatic.com/s/lusitana/v5/l1h9VDomkwbdzbPdmLcUIw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Lustria';
+      src: url('http://fonts.gstatic.com/s/lustria/v5/gXAk0s4ai0X-TAOhYzZd1w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Macondo';
+      src: url('http://fonts.gstatic.com/s/macondo/v6/G6yPNUscRPQ8ufBXs_8yRQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Macondo Swash Caps';
+      src: url('http://fonts.gstatic.com/s/macondoswashcaps/v5/SsSR706z-MlvEH7_LS6JAPkkgYRHs6GSG949m-K6x2k.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mada';
+      src: url('http://fonts.gstatic.com/s/mada/v4/io_zUrt5o943T_q45OHLWQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Magra';
+      src: url('http://fonts.gstatic.com/s/magra/v5/hoZ13bwCXBxuGZqAudgc5A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Maiden Orange';
+      src: url('http://fonts.gstatic.com/s/maidenorange/v8/ZhKIA2SPisEwdhW7g0RUWojjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Maitree';
+      src: url('http://fonts.gstatic.com/s/maitree/v2/SpKVJkAjDAYOr1VkdSRspA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mako';
+      src: url('http://fonts.gstatic.com/s/mako/v8/z5zSLmfPlv1uTVAdmJBLXg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mallanna';
+      src: url('http://fonts.gstatic.com/s/mallanna/v5/krCTa-CfMbtxqF0689CbuQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mandali';
+      src: url('http://fonts.gstatic.com/s/mandali/v5/0lF8yJ7fkyjXuqtSi5bWbQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Manuale';
+      src: url('http://fonts.gstatic.com/s/manuale/v2/OL9lzPXATGiZUB8Qdk3tiQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Marcellus';
+      src: url('http://fonts.gstatic.com/s/marcellus/v5/UjiLZzumxWC9whJ86UtaYw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Marcellus SC';
+      src: url('http://fonts.gstatic.com/s/marcellussc/v5/_jugwxhkkynrvsfrxVx8gS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Marck Script';
+      src: url('http://fonts.gstatic.com/s/marckscript/v8/O_D1NAZVOFOobLbVtW3bci3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Margarine';
+      src: url('http://fonts.gstatic.com/s/margarine/v6/DJnJwIrcO_cGkjSzY3MERw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Marko One';
+      src: url('http://fonts.gstatic.com/s/markoone/v7/hpP7j861sOAco43iDc4n4w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Marmelad';
+      src: url('http://fonts.gstatic.com/s/marmelad/v7/jI0_FBlSOIRLL0ePWOhOwQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Martel';
+      src: url('http://fonts.gstatic.com/s/martel/v2/9ALu5czkaaf5zsYk6GJEnQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Martel Sans';
+      src: url('http://fonts.gstatic.com/s/martelsans/v4/91c8DPDZncMc0RFfhmc2RqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Marvel';
+      src: url('http://fonts.gstatic.com/s/marvel/v7/Fg1dO8tWVb-MlyqhsbXEkg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mate';
+      src: url('http://fonts.gstatic.com/s/mate/v6/ooFviPcJ6hZP5bAE71Cawg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mate SC';
+      src: url('http://fonts.gstatic.com/s/matesc/v6/-YkIT2TZoPZF6pawKzDpWw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Maven Pro';
+      src: url('http://fonts.gstatic.com/s/mavenpro/v11/sqPJIFG4gqsjl-0q_46Gbw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'McLaren';
+      src: url('http://fonts.gstatic.com/s/mclaren/v5/OprvTGxaiINBKW_1_U0eoQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Meddon';
+      src: url('http://fonts.gstatic.com/s/meddon/v10/f8zJO98uu2EtSj9p7ci9RA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'MedievalSharp';
+      src: url('http://fonts.gstatic.com/s/medievalsharp/v9/85X_PjV6tftJ0-rX7KYQkOe45sJkivqprK7VkUlzfg0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Medula One';
+      src: url('http://fonts.gstatic.com/s/medulaone/v7/AasPgDQak81dsTGQHc5zUPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Meera Inimai';
+      src: url('http://fonts.gstatic.com/s/meerainimai/v2/fWbdJc2ZVZnWCi06NRCxDy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Megrim';
+      src: url('http://fonts.gstatic.com/s/megrim/v8/e-9jVUC9lv1zxaFQARuftw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Meie Script';
+      src: url('http://fonts.gstatic.com/s/meiescript/v5/oTIWE5MmPye-rCyVp_6KEqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Merienda';
+      src: url('http://fonts.gstatic.com/s/merienda/v5/MYY6Og1qZlOQtPW2G95Y3A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Merienda One';
+      src: url('http://fonts.gstatic.com/s/meriendaone/v8/bCA-uDdUx6nTO8SjzCLXvS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Merriweather';
+      src: url('http://fonts.gstatic.com/s/merriweather/v19/RFda8w1V0eDZheqfcyQ4EC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Merriweather Sans';
+      src: url('http://fonts.gstatic.com/s/merriweathersans/v9/AKu1CjQ4qnV8MUltkAX3sOAj_ty82iuwwDTNEYXGiyQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Metal';
+      src: url('http://fonts.gstatic.com/s/metal/v10/zA3UOP13ooQcxjv04BZX5g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Metal Mania';
+      src: url('http://fonts.gstatic.com/s/metalmania/v7/isriV_rAUgj6bPWPN6l9QKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Metamorphous';
+      src: url('http://fonts.gstatic.com/s/metamorphous/v7/wGqUKXRinIYggz-BTRU9ei3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Metrophobic';
+      src: url('http://fonts.gstatic.com/s/metrophobic/v10/SaglWZWCrrv_D17u1i4v_aCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Michroma';
+      src: url('http://fonts.gstatic.com/s/michroma/v8/0c2XrW81_QsiKV8T9thumA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Milonga';
+      src: url('http://fonts.gstatic.com/s/milonga/v5/dzNdIUSTGFmy2ahovDRcWg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Miltonian';
+      src: url('http://fonts.gstatic.com/s/miltonian/v11/Z4HrYZyqm0BnNNzcCUfzoQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Miltonian Tattoo';
+      src: url('http://fonts.gstatic.com/s/miltoniantattoo/v12/1oU_8OGYwW46eh02YHydn2uk0YtI6thZkz1Hmh-odwg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Miniver';
+      src: url('http://fonts.gstatic.com/s/miniver/v6/4yTQohOH_cWKRS5laRFhYg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Miriam Libre';
+      src: url('http://fonts.gstatic.com/s/miriamlibre/v3/Ljtpu8zR5iJWmlN3Faba5S3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mirza';
+      src: url('http://fonts.gstatic.com/s/mirza/v3/8oe36Xbgj9BMSLJBaZ8VAQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Miss Fajardose';
+      src: url('http://fonts.gstatic.com/s/missfajardose/v7/WcXjlQPKn6nBfr8LY3ktNu6rPKfVZo7L2bERcf0BDns.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mitr';
+      src: url('http://fonts.gstatic.com/s/mitr/v3/vKMd72X2iT4iBo5GvdCa_A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Modak';
+      src: url('http://fonts.gstatic.com/s/modak/v3/lMsN0QIKid-pCPvL0hH4nw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Modern Antiqua';
+      src: url('http://fonts.gstatic.com/s/modernantiqua/v7/8qX_tr6Xzy4t9fvZDXPkh6rFJ4O13IHVxZbM6yoslpo.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mogra';
+      src: url('http://fonts.gstatic.com/s/mogra/v4/gIxQBn9PseDaI0D4FnOiBQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Molengo';
+      src: url('http://fonts.gstatic.com/s/molengo/v8/jcjgeGuzv83I55AzOTpXNQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Molle';
+      src: url('<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined property: stdClass::$regular in D:\Work\wamp\www\quickmode\google-fonts.php on line <i>23</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>247944</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='D:\Work\wamp\www\quickmode\google-fonts.php' bgcolor='#eeeeec'>...\google-fonts.php<b>:</b>0</td></tr>
+</table></font>
+');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Monda';
+      src: url('http://fonts.gstatic.com/s/monda/v7/qFMHZ9zvR6B_gnoIgosPrw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Monofett';
+      src: url('http://fonts.gstatic.com/s/monofett/v7/C6K5L799Rgxzg2brgOaqAw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Monoton';
+      src: url('http://fonts.gstatic.com/s/monoton/v7/aCz8ja_bE4dg-7agSvExdw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Monsieur La Doulaise';
+      src: url('http://fonts.gstatic.com/s/monsieurladoulaise/v6/IMAdMj6Eq9jZ46CPctFtMKP61oAqTJXlx5ZVOBmcPdM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Montaga';
+      src: url('http://fonts.gstatic.com/s/montaga/v5/PwTwUboiD-M4-mFjZfJs2A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Montez';
+      src: url('http://fonts.gstatic.com/s/montez/v8/kx58rLOWQQLGFM4pDHv5Ng.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Montserrat';
+      src: url('http://fonts.gstatic.com/s/montserrat/v12/Kqy6-utIpx_30Xzecmeo8_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Montserrat Alternates';
+      src: url('http://fonts.gstatic.com/s/montserratalternates/v9/z2n1Sjxk9souK3HCtdHuklPuEVRGaG9GCQnmM16YWq0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Montserrat Subrayada';
+      src: url('http://fonts.gstatic.com/s/montserratsubrayada/v5/nzoCWCz0e9c7Mr2Gl8bbgrJymm6ilkk9f0nDA_sC_qk.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Moul';
+      src: url('http://fonts.gstatic.com/s/moul/v9/Kb0ALQnfyXawP1a_P_gpTQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Moulpali';
+      src: url('http://fonts.gstatic.com/s/moulpali/v10/diD74BprGhmVkJoerKmrKA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mountains of Christmas';
+      src: url('http://fonts.gstatic.com/s/mountainsofchristmas/v10/dVGBFPwd6G44IWDbQtPew2Auds3jz1Fxb61CgfaGDr4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mouse Memoirs';
+      src: url('http://fonts.gstatic.com/s/mousememoirs/v5/NBFaaJFux_j0AQbAsW3QeH8f0n03UdmQgF_CLvNR2vg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mr Bedfort';
+      src: url('http://fonts.gstatic.com/s/mrbedfort/v6/81bGgHTRikLs_puEGshl7_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mr Dafoe';
+      src: url('http://fonts.gstatic.com/s/mrdafoe/v6/s32Q1S6ZkT7EaX53mUirvQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mr De Haviland';
+      src: url('http://fonts.gstatic.com/s/mrdehaviland/v6/fD8y4L6PJ4vqDk7z8Y8e27v4lrhng1lzu7-weKO6cw8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mrs Saint Delafield';
+      src: url('http://fonts.gstatic.com/s/mrssaintdelafield/v5/vuWagfFT7bj9lFtZOFBwmjHMBelqWf3tJeGyts2SmKU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mrs Sheppards';
+      src: url('http://fonts.gstatic.com/s/mrssheppards/v6/2WFsWMV3VUeCz6UVH7UjCn8f0n03UdmQgF_CLvNR2vg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mukta';
+      src: url('http://fonts.gstatic.com/s/mukta/v5/7dmf9fx1PuHBtLhSPnZzrQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mukta Mahee';
+      src: url('http://fonts.gstatic.com/s/muktamahee/v2/aY_0-ayxlrgq21R8UWTI96CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mukta Malar';
+      src: url('http://fonts.gstatic.com/s/muktamalar/v3/xdx0fv5-ENz5PCzqiKyrqqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mukta Vaani';
+      src: url('http://fonts.gstatic.com/s/muktavaani/v4/knS0wTOFNOwOD4CZrdHIxKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Muli';
+      src: url('http://fonts.gstatic.com/s/muli/v11/KJiP6KznxbALQgfJcDdPAw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Mystery Quest';
+      src: url('http://fonts.gstatic.com/s/mysteryquest/v5/467jJvg0c7HgucvBB9PLDyeUSrabuTpOsMEiRLtKwk0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'NTR';
+      src: url('http://fonts.gstatic.com/s/ntr/v5/e7H4ZLtGfVOYyOupo6T12g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Neucha';
+      src: url('http://fonts.gstatic.com/s/neucha/v9/bijdhB-TzQdtpl0ykhGh4Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Neuton';
+      src: url('http://fonts.gstatic.com/s/neuton/v10/9R-MGIOQUdjAVeB6nE6PcQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'New Rocker';
+      src: url('http://fonts.gstatic.com/s/newrocker/v6/EFUWzHJedEkpW399zYOHofesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'News Cycle';
+      src: url('http://fonts.gstatic.com/s/newscycle/v14/xyMAr8VfiUzIOvS1abHJO_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Niconne';
+      src: url('http://fonts.gstatic.com/s/niconne/v7/ZA-mFw2QNXodx5y7kfELBg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nixie One';
+      src: url('http://fonts.gstatic.com/s/nixieone/v8/h6kQfmzm0Shdnp3eswRaqQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nobile';
+      src: url('http://fonts.gstatic.com/s/nobile/v9/lC_lPi1ddtN38iXTCRh6ow.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nokora';
+      src: url('http://fonts.gstatic.com/s/nokora/v11/dRyz1JfnyKPNaRcBNX9F9A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Norican';
+      src: url('http://fonts.gstatic.com/s/norican/v5/SHnSqhYAWG5sZTWcPzEHig.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nosifer';
+      src: url('http://fonts.gstatic.com/s/nosifer/v6/7eJGoIuHRrtcG00j6CptSA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nothing You Could Do';
+      src: url('http://fonts.gstatic.com/s/nothingyoucoulddo/v7/jpk1K3jbJoyoK0XKaSyQAf-TpkXjXYGWiJZAEtBRjPU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Noticia Text';
+      src: url('http://fonts.gstatic.com/s/noticiatext/v7/wdyV6x3eKpdeUPQ7BJ5uUC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Noto Sans';
+      src: url('http://fonts.gstatic.com/s/notosans/v7/0Ue9FiUJwVhi4NGfHJS5uA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Noto Serif';
+      src: url('http://fonts.gstatic.com/s/notoserif/v6/zW6mc7bC1CWw8dH0yxY8JfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Cut';
+      src: url('http://fonts.gstatic.com/s/novacut/v9/6q12jWcBvj0KO2cMRP97tA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Flat';
+      src: url('http://fonts.gstatic.com/s/novaflat/v9/pK7a0CoGzI684qe_XSHBqQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Mono';
+      src: url('http://fonts.gstatic.com/s/novamono/v8/6-SChr5ZIaaasJFBkgrLNw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Oval';
+      src: url('http://fonts.gstatic.com/s/novaoval/v9/VuukVpKP8BwUf8o9W5LYQQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Round';
+      src: url('http://fonts.gstatic.com/s/novaround/v9/7-cK3Ari_8XYYFgVMxVhDvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Script';
+      src: url('http://fonts.gstatic.com/s/novascript/v10/dEvxQDLgx1M1TKY-NmBWYaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Slim';
+      src: url('http://fonts.gstatic.com/s/novaslim/v9/rPYXC81_VL2EW-4CzBX65g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nova Square';
+      src: url('http://fonts.gstatic.com/s/novasquare/v9/BcBzXoaDzYX78rquGXVuSqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Numans';
+      src: url('http://fonts.gstatic.com/s/numans/v7/g5snI2p6OEjjTNmTHyBdiQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nunito';
+      src: url('http://fonts.gstatic.com/s/nunito/v9/ySZTeT3IuzJj0GK6uGpbBg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Nunito Sans';
+      src: url('http://fonts.gstatic.com/s/nunitosans/v3/qDS9UelBO44ppiSawKNcIKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Odor Mean Chey';
+      src: url('http://fonts.gstatic.com/s/odormeanchey/v9/GK3E7EjPoBkeZhYshGFo0eVKG8sq4NyGgdteJLvqLDs.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Offside';
+      src: url('http://fonts.gstatic.com/s/offside/v5/v0C913SB8wqQUvcu1faUqw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Old Standard TT';
+      src: url('http://fonts.gstatic.com/s/oldstandardtt/v9/n6RTCDcIPWSE8UNBa4k-DLcB5jyhm1VsHs65c3QNDr0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oldenburg';
+      src: url('http://fonts.gstatic.com/s/oldenburg/v5/dqA_M_uoCVXZbCO-oKBTnQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oleo Script';
+      src: url('http://fonts.gstatic.com/s/oleoscript/v6/21stZcmPyzbQVXtmGegyqKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oleo Script Swash Caps';
+      src: url('http://fonts.gstatic.com/s/oleoscriptswashcaps/v5/vdWhGqsBUAP-FF3NOYTe4iMF4kXAPemmyaDpMXQ31P0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Open Sans';
+      src: url('http://fonts.gstatic.com/s/opensans/v15/IgZJs4-7SA1XX_edsoXWog.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Open Sans Condensed';
+      src: url('<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined property: stdClass::$regular in D:\Work\wamp\www\quickmode\google-fonts.php on line <i>23</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>247944</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='D:\Work\wamp\www\quickmode\google-fonts.php' bgcolor='#eeeeec'>...\google-fonts.php<b>:</b>0</td></tr>
+</table></font>
+');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oranienbaum';
+      src: url('http://fonts.gstatic.com/s/oranienbaum/v6/M98jYwCSn0PaFhXXgviCoaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Orbitron';
+      src: url('http://fonts.gstatic.com/s/orbitron/v9/DY8swouAZjR3RaUPRf0HDQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oregano';
+      src: url('http://fonts.gstatic.com/s/oregano/v5/UiLhqNixVv2EpjRoBG6axA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Orienta';
+      src: url('http://fonts.gstatic.com/s/orienta/v5/_NKSk93mMs0xsqtfjCsB3Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Original Surfer';
+      src: url('http://fonts.gstatic.com/s/originalsurfer/v6/gdHw6HpSIN4D6Xt7pi1-qIkEz33TDwAZczo_6fY7eg0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oswald';
+      src: url('http://fonts.gstatic.com/s/oswald/v16/uLEd2g2vJglLPfsBF91DCg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Over the Rainbow';
+      src: url('http://fonts.gstatic.com/s/overtherainbow/v8/6gp-gkpI2kie2dHQQLM2jQBdxkZd83xOSx-PAQ2QmiI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Overlock';
+      src: url('http://fonts.gstatic.com/s/overlock/v7/Z8oYsGi88-E1cUB8YBFMAg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Overlock SC';
+      src: url('http://fonts.gstatic.com/s/overlocksc/v6/8D7HYDsvS_g1GhBnlHzgzaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Overpass';
+      src: url('http://fonts.gstatic.com/s/overpass/v2/1fNed5evrqtu4ZjkbTnCRw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Overpass Mono';
+      src: url('http://fonts.gstatic.com/s/overpassmono/v3/MarHoIqW2hy_po97b_wS9uV_5zh5b-_HiooIRUBwn1A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ovo';
+      src: url('http://fonts.gstatic.com/s/ovo/v8/mFg27dimu3s9t09qjCwB1g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oxygen';
+      src: url('http://fonts.gstatic.com/s/oxygen/v7/uhoyAE7XlQL22abzQieHjw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Oxygen Mono';
+      src: url('http://fonts.gstatic.com/s/oxygenmono/v5/DigTu7k4b7OmM8ubt1Qza6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'PT Mono';
+      src: url('http://fonts.gstatic.com/s/ptmono/v5/QUbM8H9yJK5NhpQ0REO6Wg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'PT Sans';
+      src: url('http://fonts.gstatic.com/s/ptsans/v9/UFoEz2uiuMypUGZL1NKoeg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'PT Sans Caption';
+      src: url('http://fonts.gstatic.com/s/ptsanscaption/v10/OXYTDOzBcXU8MTNBvBHeSW8by34Z3mUMtM-o4y-SHCY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'PT Sans Narrow';
+      src: url('http://fonts.gstatic.com/s/ptsansnarrow/v8/UyYrYy3ltEffJV9QueSi4ZTvAuddT2xDMbdz0mdLyZY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'PT Serif';
+      src: url('http://fonts.gstatic.com/s/ptserif/v9/sAo427rn3-QL9sWCbMZXhA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'PT Serif Caption';
+      src: url('http://fonts.gstatic.com/s/ptserifcaption/v9/7xkFOeTxxO1GMC1suOUYWVsRioCqs5fohhaYel24W3k.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pacifico';
+      src: url('http://fonts.gstatic.com/s/pacifico/v12/GIrpeRY1r5CzbfL8r182lw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Padauk';
+      src: url('http://fonts.gstatic.com/s/padauk/v4/WdTk6igBu-qn4v8naF9hGQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Palanquin';
+      src: url('http://fonts.gstatic.com/s/palanquin/v3/xCwBUoAEV0kzCDwerAZ0Aw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Palanquin Dark';
+      src: url('http://fonts.gstatic.com/s/palanquindark/v3/PamTqrrgbBh_M3702w39rOfChn3JSg5yz_Q_xmrKQN0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pangolin';
+      src: url('http://fonts.gstatic.com/s/pangolin/v3/i2W796ne6lveehHXs8AFGA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Paprika';
+      src: url('http://fonts.gstatic.com/s/paprika/v5/b-VpyoRSieBdB5BPJVF8HQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Parisienne';
+      src: url('http://fonts.gstatic.com/s/parisienne/v5/TW74B5QISJNx9moxGlmJfvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Passero One';
+      src: url('http://fonts.gstatic.com/s/passeroone/v9/Yc-7nH5deCCv9Ed0MMnAQqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Passion One';
+      src: url('http://fonts.gstatic.com/s/passionone/v8/1UIK1tg3bKJ4J3o35M4heqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pathway Gothic One';
+      src: url('http://fonts.gstatic.com/s/pathwaygothicone/v6/Lqv9ztoTUV8Q0FmQZzPqaA6A6xIYD7vYcYDop1i-K-c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Patrick Hand';
+      src: url('http://fonts.gstatic.com/s/patrickhand/v11/9BG3JJgt_HlF3NpEUehL0C3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Patrick Hand SC';
+      src: url('http://fonts.gstatic.com/s/patrickhandsc/v5/OYFWCgfCR-7uHIovjUZXsbAgSRh1LpJXlLfl8IbsmHg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pattaya';
+      src: url('http://fonts.gstatic.com/s/pattaya/v2/sJEout1xdD7J8H-1H81pIQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Patua One';
+      src: url('http://fonts.gstatic.com/s/patuaone/v7/njZwotTYjswR4qdhsW-kJw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pavanam';
+      src: url('http://fonts.gstatic.com/s/pavanam/v2/C7yuEhNK5oftNLSL3I0bGw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Paytone One';
+      src: url('http://fonts.gstatic.com/s/paytoneone/v10/3WCxC7JAJjQHQVoIE0ZwvqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Peddana';
+      src: url('http://fonts.gstatic.com/s/peddana/v5/zaSZuj_GhmC8AOTugOROnA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Peralta';
+      src: url('http://fonts.gstatic.com/s/peralta/v5/cTJX5KEuc0GKRU9NXSm-8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Permanent Marker';
+      src: url('http://fonts.gstatic.com/s/permanentmarker/v7/9vYsg5VgPHKK8SXYbf3sMol14xj5tdg9OHF8w4E7StQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Petit Formal Script';
+      src: url('http://fonts.gstatic.com/s/petitformalscript/v5/OEZwr2-ovBsq2n3ACCKoEvVPl2Gjtxj0D6F7QLy1VQc.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Petrona';
+      src: url('http://fonts.gstatic.com/s/petrona/v6/nnQwxlP6dhrGovYEFtemTg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Philosopher';
+      src: url('http://fonts.gstatic.com/s/philosopher/v9/oZLTrB9jmJsyV0u_T0TKEaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Piedra';
+      src: url('http://fonts.gstatic.com/s/piedra/v6/owf-AvEEyAj9LJ2tVZ_3Mw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pinyon Script';
+      src: url('http://fonts.gstatic.com/s/pinyonscript/v7/TzghnhfCn7TuE73f-CBQ0CeUSrabuTpOsMEiRLtKwk0.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pirata One';
+      src: url('http://fonts.gstatic.com/s/pirataone/v5/WnbD86B4vB2ckYcL7oxuhvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Plaster';
+      src: url('http://fonts.gstatic.com/s/plaster/v9/O4QG9Z5116CXyfJdR9zxLw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Play';
+      src: url('http://fonts.gstatic.com/s/play/v9/GWvfObW8LhtsOX333MCpBg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Playball';
+      src: url('http://fonts.gstatic.com/s/playball/v7/3hOFiQm_EUzycTpcN9uz4w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Playfair Display';
+      src: url('http://fonts.gstatic.com/s/playfairdisplay/v13/2NBgzUtEeyB-Xtpr9bm1CV6uyC_qD11hrFQ6EGgTJWI.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Playfair Display SC';
+      src: url('http://fonts.gstatic.com/s/playfairdisplaysc/v7/G0-tvBxd4eQRdwFKB8dRkcpjYTDWIvcAwAccqeW9uNM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Podkova';
+      src: url('http://fonts.gstatic.com/s/podkova/v11/eylljyGVfB8ZUQjYY3WZRQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Poiret One';
+      src: url('http://fonts.gstatic.com/s/poiretone/v5/dWcYed048E5gHGDIt8i1CPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Poller One';
+      src: url('http://fonts.gstatic.com/s/pollerone/v7/dkctmDlTPcZ6boC8662RA_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Poly';
+      src: url('http://fonts.gstatic.com/s/poly/v8/bcMAuiacS2qkd54BcwW6_Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pompiere';
+      src: url('http://fonts.gstatic.com/s/pompiere/v7/o_va2p9CD5JfmFohAkGZIA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pontano Sans';
+      src: url('http://fonts.gstatic.com/s/pontanosans/v5/gTHiwyxi6S7iiHpqAoiE3C3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Poppins';
+      src: url('http://fonts.gstatic.com/s/poppins/v5/hlvAxH6aIdOjWlLzgm0jqg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Port Lligat Sans';
+      src: url('http://fonts.gstatic.com/s/portlligatsans/v6/CUEdhRk7oC7up0p6t0g4P6mASEpx5X0ZpsuJOuvfOGA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Port Lligat Slab';
+      src: url('http://fonts.gstatic.com/s/portlligatslab/v6/CUEdhRk7oC7up0p6t0g4PxLSPACXvawUYCBEnHsOe30.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pragati Narrow';
+      src: url('http://fonts.gstatic.com/s/pragatinarrow/v3/HzG2TfC862qPNsZsV_djPpTvAuddT2xDMbdz0mdLyZY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Prata';
+      src: url('http://fonts.gstatic.com/s/prata/v8/3gmx8r842loRRm9iQkCDGg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Preahvihear';
+      src: url('http://fonts.gstatic.com/s/preahvihear/v9/82tDI-xTc53CxxOzEG4hDaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Press Start 2P';
+      src: url('http://fonts.gstatic.com/s/pressstart2p/v6/8Lg6LX8-ntOHUQnvQ0E7o1jfl3W46Sz5gOkEVhcFWF4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Pridi';
+      src: url('http://fonts.gstatic.com/s/pridi/v3/Mau018Ghi7LJX7FkGYCZAQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Princess Sofia';
+      src: url('http://fonts.gstatic.com/s/princesssofia/v5/8g5l8r9BM0t1QsXLTajDe-wjmA7ie-lFcByzHGRhCIg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Prociono';
+      src: url('http://fonts.gstatic.com/s/prociono/v7/43ZYDHWogdFeNBWTl6ksmw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Prompt';
+      src: url('http://fonts.gstatic.com/s/prompt/v2/nDo1rQFnTFNua4cp-OnD2A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Prosto One';
+      src: url('http://fonts.gstatic.com/s/prostoone/v6/bsqnAElAqk9kX7eABTRFJPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Proza Libre';
+      src: url('http://fonts.gstatic.com/s/prozalibre/v2/Hg11OrfE1P_U6mKmrZPknKCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Puritan';
+      src: url('http://fonts.gstatic.com/s/puritan/v9/wv_RtgVBSCn-or2MC0n4Kg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Purple Purse';
+      src: url('http://fonts.gstatic.com/s/purplepurse/v6/Q5heFUrdmei9axbMITxxxS3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Quando';
+      src: url('http://fonts.gstatic.com/s/quando/v6/03nDiEZuO2-h3xvtG6UmHg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Quantico';
+      src: url('http://fonts.gstatic.com/s/quantico/v6/pwSnP8Xpaix2rIz99HrSlQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Quattrocento';
+      src: url('http://fonts.gstatic.com/s/quattrocento/v9/WZDISdyil4HsmirlOdBRFC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Quattrocento Sans';
+      src: url('http://fonts.gstatic.com/s/quattrocentosans/v10/efd6FGWWGX5Z3ztwLBrG9eAj_ty82iuwwDTNEYXGiyQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Questrial';
+      src: url('http://fonts.gstatic.com/s/questrial/v7/MoHHaw_WwNs_hd9ob1zTVw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Quicksand';
+      src: url('http://fonts.gstatic.com/s/quicksand/v7/Ngv3fIJjKB7sD-bTUGIFCA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Quintessential';
+      src: url('http://fonts.gstatic.com/s/quintessential/v5/mmk6ioesnTrEky_Zb92E5s02lXbtMOtZWfuxKeMZO8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Qwigley';
+      src: url('http://fonts.gstatic.com/s/qwigley/v7/aDqxws-KubFID85TZHFouw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Racing Sans One';
+      src: url('http://fonts.gstatic.com/s/racingsansone/v5/1r3DpWaCiT7y3PD4KgkNyDjVlsJB_M_Q_LtZxsoxvlw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Radley';
+      src: url('http://fonts.gstatic.com/s/radley/v12/FgE9di09a-mXGzAIyI6Q9Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rajdhani';
+      src: url('http://fonts.gstatic.com/s/rajdhani/v7/Wfy5zp4PGFAFS7-Wetehzw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rakkas';
+      src: url('http://fonts.gstatic.com/s/rakkas/v3/XWSZpoSbAR4myQgKbSJM9A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Raleway';
+      src: url('http://fonts.gstatic.com/s/raleway/v12/_dCzxpXzIS3sL-gdJWAP8A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Raleway Dots';
+      src: url('http://fonts.gstatic.com/s/ralewaydots/v5/lhLgmWCRcyz-QXo8LCzTfC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ramabhadra';
+      src: url('http://fonts.gstatic.com/s/ramabhadra/v6/JyhxLXRVQChLDGADS_c5MPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ramaraja';
+      src: url('http://fonts.gstatic.com/s/ramaraja/v2/XIqzxFapVczstBedHdQTiw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rambla';
+      src: url('http://fonts.gstatic.com/s/rambla/v5/YaTmpvm5gFg_ShJKTQmdzg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rammetto One';
+      src: url('http://fonts.gstatic.com/s/rammettoone/v6/mh0uQ1tV8QgSx9v_KyEYPC3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ranchers';
+      src: url('http://fonts.gstatic.com/s/ranchers/v5/9ya8CZYhqT66VERfjQ7eLA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rancho';
+      src: url('http://fonts.gstatic.com/s/rancho/v8/ekp3-4QykC4--6KaslRgHA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ranga';
+      src: url('http://fonts.gstatic.com/s/ranga/v3/xpW6zFTNzY1JykoBIqE1Zg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rasa';
+      src: url('http://fonts.gstatic.com/s/rasa/v3/A5PoJUwX_PxTsywxlRB79g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rationale';
+      src: url('http://fonts.gstatic.com/s/rationale/v8/7M2eN-di0NGLQse7HzJRfg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ravi Prakash';
+      src: url('http://fonts.gstatic.com/s/raviprakash/v4/8EzbM7Rymjk25jWeHxbO6C3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Redressed';
+      src: url('http://fonts.gstatic.com/s/redressed/v8/3aZ5sTBppH3oSm5SabegtA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Reem Kufi';
+      src: url('http://fonts.gstatic.com/s/reemkufi/v3/xLwMbK_T1g-h9p-rp60A1Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Reenie Beanie';
+      src: url('http://fonts.gstatic.com/s/reeniebeanie/v8/ljpKc6CdXusL1cnGUSamX4jjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Revalia';
+      src: url('http://fonts.gstatic.com/s/revalia/v5/1TKw66fF5_poiL0Ktgo4_A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rhodium Libre';
+      src: url('http://fonts.gstatic.com/s/rhodiumlibre/v2/Vxr7A4-xE2zsBDDI8BcseIjjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ribeye';
+      src: url('http://fonts.gstatic.com/s/ribeye/v6/e5w3VE8HnWBln4Ll6lUj3Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ribeye Marrow';
+      src: url('http://fonts.gstatic.com/s/ribeyemarrow/v7/q7cBSA-4ErAXBCDFPrhlY0cTNmV93fYG7UKgsLQNQWs.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Righteous';
+      src: url('http://fonts.gstatic.com/s/righteous/v6/0nRRWM_gCGCt2S-BCfN8WQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Risque';
+      src: url('http://fonts.gstatic.com/s/risque/v5/92RnElGnl8yHP97-KV3Fyg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Roboto';
+      src: url('http://fonts.gstatic.com/s/roboto/v18/W5F8_SL0XFawnjxHGsZjJA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Roboto Condensed';
+      src: url('http://fonts.gstatic.com/s/robotocondensed/v16/Zd2E9abXLFGSr9G3YK2MsKDbm6fPDOZJsR8PmdG62gY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Roboto Mono';
+      src: url('http://fonts.gstatic.com/s/robotomono/v5/eJ4cxQe85Lo39t-LVoKa26CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Roboto Slab';
+      src: url('http://fonts.gstatic.com/s/robotoslab/v7/3__ulTNA7unv0UtplybPiqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rochester';
+      src: url('http://fonts.gstatic.com/s/rochester/v8/bnj8tmQBiOkdji_G_yvypg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rock Salt';
+      src: url('http://fonts.gstatic.com/s/rocksalt/v8/Zy7JF9h9WbhD9V3SFMQ1UQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rokkitt';
+      src: url('http://fonts.gstatic.com/s/rokkitt/v12/GMA7Z_ToF8uSvpZAgnp_VQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Romanesco';
+      src: url('http://fonts.gstatic.com/s/romanesco/v6/2udIjUrpK_CPzYSxRVzD4Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ropa Sans';
+      src: url('http://fonts.gstatic.com/s/ropasans/v7/Gba7ZzVBuhg6nX_AoSwlkQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rosario';
+      src: url('http://fonts.gstatic.com/s/rosario/v12/bL-cEh8dXtDupB2WccA2LA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rosarivo';
+      src: url('http://fonts.gstatic.com/s/rosarivo/v5/EmPiINK0qyqc7KSsNjJamA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rouge Script';
+      src: url('http://fonts.gstatic.com/s/rougescript/v6/AgXDSqZJmy12qS0ixjs6Vy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rozha One';
+      src: url('http://fonts.gstatic.com/s/rozhaone/v4/PyrMHQ6lucEIxwKmhqsX8A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rubik';
+      src: url('http://fonts.gstatic.com/s/rubik/v7/4sMyW_teKWHB3K8Hm-Il6A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rubik Mono One';
+      src: url('http://fonts.gstatic.com/s/rubikmonoone/v6/e_cupPtD4BrZzotubJD7UbAREgn5xbW23GEXXnhMQ5Y.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ruda';
+      src: url('http://fonts.gstatic.com/s/ruda/v9/jPEIPB7DM2DNK_uBGv2HGw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rufina';
+      src: url('http://fonts.gstatic.com/s/rufina/v5/s9IFr_fIemiohfZS-ZRDbQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ruge Boogie';
+      src: url('http://fonts.gstatic.com/s/rugeboogie/v8/U-TTmltL8aENLVIqYbI5QaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ruluko';
+      src: url('http://fonts.gstatic.com/s/ruluko/v5/lv4cMwJtrx_dzmlK5SDc1g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rum Raisin';
+      src: url('http://fonts.gstatic.com/s/rumraisin/v5/kDiL-ntDOEq26B7kYM7cx_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ruslan Display';
+      src: url('http://fonts.gstatic.com/s/ruslandisplay/v8/SREdhlyLNUfU1VssRBfs3rgH88D3l9N4auRNHrNS708.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Russo One';
+      src: url('http://fonts.gstatic.com/s/russoone/v6/zfwxZ--UhUc7FVfgT21PRQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ruthie';
+      src: url('http://fonts.gstatic.com/s/ruthie/v7/vJ2LorukHSbWYoEs5juivg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Rye';
+      src: url('http://fonts.gstatic.com/s/rye/v5/VUrJlpPpSZxspl3w_yNOrQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sacramento';
+      src: url('http://fonts.gstatic.com/s/sacramento/v5/_kv-qycSHMNdhjiv0Kj7BvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sahitya';
+      src: url('http://fonts.gstatic.com/s/sahitya/v2/wQWULcDbZqljdTfjOUtDvw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sail';
+      src: url('http://fonts.gstatic.com/s/sail/v8/iuEoG6kt-bePGvtdpL0GUQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Saira';
+      src: url('http://fonts.gstatic.com/s/saira/v2/Xscf3I_Twe9a3mnmbLi5XQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Saira Condensed';
+      src: url('http://fonts.gstatic.com/s/sairacondensed/v3/RzMaXT8ujYB0FpOoZJ_AtSQPsWWoiv__AzYJ9Zzn9II.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Saira Extra Condensed';
+      src: url('http://fonts.gstatic.com/s/sairaextracondensed/v3/3XMbuc1UIdE_Bo4eJ-H3G4elbRYnLTTQA1Z5cVLnsI4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Saira Semi Condensed';
+      src: url('http://fonts.gstatic.com/s/sairasemicondensed/v3/E1gvqhdADptsO-uwP-KYOplmjOf-f3WTIBZyrvssS_s.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Salsa';
+      src: url('http://fonts.gstatic.com/s/salsa/v7/BnpUCBmYdvggScEPs5JbpA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sanchez';
+      src: url('http://fonts.gstatic.com/s/sanchez/v5/BEL8ao-E2LJ5eHPLB2UAiw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sancreek';
+      src: url('http://fonts.gstatic.com/s/sancreek/v8/8ZacBMraWMvHly4IJI3esw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sansita';
+      src: url('http://fonts.gstatic.com/s/sansita/v2/ey9oYobmakEwtEciY0G5Mg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sarala';
+      src: url('http://fonts.gstatic.com/s/sarala/v2/ohip9lixCHoBab7hTtgLnw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sarina';
+      src: url('http://fonts.gstatic.com/s/sarina/v6/XYtRfaSknHIU3NHdfTdXoQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sarpanch';
+      src: url('http://fonts.gstatic.com/s/sarpanch/v3/YMBZdT27b6O5a1DADbAGSg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Satisfy';
+      src: url('http://fonts.gstatic.com/s/satisfy/v8/PRlyepkd-JCGHiN8e9WV2w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Scada';
+      src: url('http://fonts.gstatic.com/s/scada/v6/iZNC3ZEYwe3je6H-28d5Ug.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Scheherazade';
+      src: url('http://fonts.gstatic.com/s/scheherazade/v13/AuKlqGWzUC-8XqMOmsqXiy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Schoolbell';
+      src: url('http://fonts.gstatic.com/s/schoolbell/v8/95-3djEuubb3cJx-6E7j4vesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Scope One';
+      src: url('http://fonts.gstatic.com/s/scopeone/v3/ge7dY8Yht-n7_1cLHtoT3w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Seaweed Script';
+      src: url('http://fonts.gstatic.com/s/seaweedscript/v5/eorWAPpOvvWrPw5IHwE60BnpV0hQCek3EmWnCPrvGRM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Secular One';
+      src: url('http://fonts.gstatic.com/s/secularone/v2/yW9qikjpt_X0fh5oQJcdo6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sedgwick Ave';
+      src: url('http://fonts.gstatic.com/s/sedgwickave/v3/pbgmsWX_2A5V-qqzaczoEy3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sedgwick Ave Display';
+      src: url('http://fonts.gstatic.com/s/sedgwickavedisplay/v3/_2bQpgd1Hl3UOD3yDrU-cP912kD9slMJGfCNYtCeVl4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sevillana';
+      src: url('http://fonts.gstatic.com/s/sevillana/v5/6m1Nh35oP7YEt00U80Smiw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Seymour One';
+      src: url('http://fonts.gstatic.com/s/seymourone/v5/HrdG2AEG_870Xb7xBVv6C6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Shadows Into Light';
+      src: url('http://fonts.gstatic.com/s/shadowsintolight/v7/clhLqOv7MXn459PTh0gXYAW_5bEze-iLRNvGrRpJsfM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Shadows Into Light Two';
+      src: url('http://fonts.gstatic.com/s/shadowsintolighttwo/v5/gDxHeefcXIo-lOuZFCn2xVQrZk-Pga5KeEE_oZjkQjQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Shanti';
+      src: url('http://fonts.gstatic.com/s/shanti/v9/lc4nG_JG6Q-2FQSOMMhb_w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Share';
+      src: url('http://fonts.gstatic.com/s/share/v8/1ytD7zSb_-g9I2GG67vmVw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Share Tech';
+      src: url('http://fonts.gstatic.com/s/sharetech/v7/Dq3DuZ5_0SW3oEfAWFpen_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Share Tech Mono';
+      src: url('http://fonts.gstatic.com/s/sharetechmono/v7/RQxK-3RA0Lnf3gnnnNrAscwD6PD0c3_abh9zHKQtbGU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Shojumaru';
+      src: url('http://fonts.gstatic.com/s/shojumaru/v5/WP8cxonzQQVAoI3RJQ2wug.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Short Stack';
+      src: url('http://fonts.gstatic.com/s/shortstack/v7/v4dXPI0Rm8XN9gk4SDdqlqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Shrikhand';
+      src: url('http://fonts.gstatic.com/s/shrikhand/v3/45jwHiwIDTWCy3Ir85vvKA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Siemreap';
+      src: url('http://fonts.gstatic.com/s/siemreap/v10/JSK-mOIsXwxo-zE9XDDl_g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sigmar One';
+      src: url('http://fonts.gstatic.com/s/sigmarone/v8/oh_5NxD5JBZksdo2EntKefesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Signika';
+      src: url('http://fonts.gstatic.com/s/signika/v8/WvDswbww0oAtvBg2l1L-9w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Signika Negative';
+      src: url('http://fonts.gstatic.com/s/signikanegative/v7/Z-Q1hzbY8uAo3TpTyPFMXVM1lnCWMnren5_v6047e5A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Simonetta';
+      src: url('http://fonts.gstatic.com/s/simonetta/v7/fN8puNuahBo4EYMQgp12Yg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sintony';
+      src: url('http://fonts.gstatic.com/s/sintony/v5/IDhCijoIMev2L6Lg5QsduQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sirin Stencil';
+      src: url('http://fonts.gstatic.com/s/sirinstencil/v6/pRpLdo0SawzO7MoBpvowsImg74kgS1F7KeR8rWhYwkU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Six Caps';
+      src: url('http://fonts.gstatic.com/s/sixcaps/v8/_XeDnO0HOV8Er9u97If1tQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Skranji';
+      src: url('http://fonts.gstatic.com/s/skranji/v5/jnOLPS0iZmDL7dfWnW3nIw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Slabo 13px';
+      src: url('http://fonts.gstatic.com/s/slabo13px/v4/jPGWFTjRXfCSzy0qd1nqdvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Slabo 27px';
+      src: url('http://fonts.gstatic.com/s/slabo27px/v4/gC0o8B9eU21EafNkXlRAfPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Slackey';
+      src: url('http://fonts.gstatic.com/s/slackey/v8/evRIMNhGVCRJvCPv4kteeA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Smokum';
+      src: url('http://fonts.gstatic.com/s/smokum/v8/8YP4BuAcy97X8WfdKfxVRw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Smythe';
+      src: url('http://fonts.gstatic.com/s/smythe/v8/yACD1gy_MpbB9Ft42fUvYw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sniglet';
+      src: url('http://fonts.gstatic.com/s/sniglet/v9/XWhyQLHH4SpCVsHRPRgu9w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Snippet';
+      src: url('http://fonts.gstatic.com/s/snippet/v7/eUcYMLq2GtHZovLlQH_9kA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Snowburst One';
+      src: url('http://fonts.gstatic.com/s/snowburstone/v5/zSQzKOPukXRux2oTqfYJjIjjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sofadi One';
+      src: url('http://fonts.gstatic.com/s/sofadione/v6/nirf4G12IcJ6KI8Eoj119fesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sofia';
+      src: url('http://fonts.gstatic.com/s/sofia/v6/Imnvx0Ag9r6iDBFUY5_RaQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sonsie One';
+      src: url('http://fonts.gstatic.com/s/sonsieone/v6/KSP7xT1OSy0q2ob6RQOTWPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sorts Mill Goudy';
+      src: url('http://fonts.gstatic.com/s/sortsmillgoudy/v7/JzRrPKdwEnE8F1TDmDLMUlIL2Qjg-Xlsg_fhGbe2P5U.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Source Code Pro';
+      src: url('http://fonts.gstatic.com/s/sourcecodepro/v7/mrl8jkM18OlOQN8JLgasD9Rl0pGnog23EMYRrBmUzJQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Source Sans Pro';
+      src: url('http://fonts.gstatic.com/s/sourcesanspro/v11/ODelI1aHBYDBqgeIAH2zlNRl0pGnog23EMYRrBmUzJQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Source Serif Pro';
+      src: url('http://fonts.gstatic.com/s/sourceserifpro/v5/CeUM4np2c42DV49nanp55YGL0S0YDpKs5GpLtZIQ0m4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Space Mono';
+      src: url('http://fonts.gstatic.com/s/spacemono/v2/B_LOPq3uMVBqC_kmqwURBfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Special Elite';
+      src: url('http://fonts.gstatic.com/s/specialelite/v8/9-wW4zu3WNoD5Fjka35Jm4jjx0o0jr6fNXxPgYh_a8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Spectral';
+      src: url('http://fonts.gstatic.com/s/spectral/v4/iBj67vddkZHOY5CJLE9SnA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Spectral SC';
+      src: url('http://fonts.gstatic.com/s/spectralsc/v2/a0Q_ia82PHVBRtfk7cZ0qaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Spicy Rice';
+      src: url('http://fonts.gstatic.com/s/spicyrice/v6/WGCtz7cLoggXARPi9OGD6_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Spinnaker';
+      src: url('http://fonts.gstatic.com/s/spinnaker/v9/MQdIXivKITpjROUdiN6Jgg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Spirax';
+      src: url('http://fonts.gstatic.com/s/spirax/v6/IOKqhk-Ccl7y31yDsePPkw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Squada One';
+      src: url('http://fonts.gstatic.com/s/squadaone/v6/3tzGuaJdD65cZVgfQzN8uvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sree Krushnadevaraya';
+      src: url('http://fonts.gstatic.com/s/sreekrushnadevaraya/v5/CdsXmnHyEqVl1ahzOh5qnzjDZVem5Eb4d0dXjXa0F_Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sriracha';
+      src: url('http://fonts.gstatic.com/s/sriracha/v2/l-TXHmKwoHm6vtjy4oUz8Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Stalemate';
+      src: url('http://fonts.gstatic.com/s/stalemate/v5/wQLCnG0qB6mOu2Wit2dt_w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Stalinist One';
+      src: url('http://fonts.gstatic.com/s/stalinistone/v10/MQpS-WezM9W4Dd7D3B7I-UT7eZ8.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Stardos Stencil';
+      src: url('http://fonts.gstatic.com/s/stardosstencil/v7/ygEOyTW9a6u4fi4OXEZeTFf2eT4jUldwg_9fgfY_tHc.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Stint Ultra Condensed';
+      src: url('http://fonts.gstatic.com/s/stintultracondensed/v6/8DqLK6-YSClFZt3u3EgOUYelbRYnLTTQA1Z5cVLnsI4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Stint Ultra Expanded';
+      src: url('http://fonts.gstatic.com/s/stintultraexpanded/v5/FeigX-wDDgHMCKuhekhedQ7dxr0N5HY0cZKknTIL6n4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Stoke';
+      src: url('http://fonts.gstatic.com/s/stoke/v7/A7qJNoqOm2d6o1E6e0yUFg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Strait';
+      src: url('http://fonts.gstatic.com/s/strait/v5/m4W73ViNmProETY2ybc-Bg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sue Ellen Francisco';
+      src: url('http://fonts.gstatic.com/s/sueellenfrancisco/v8/TwHX4vSxMUnJUdEz1JIgrhzazJzPVbGl8jnf1tisRz4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Suez One';
+      src: url('http://fonts.gstatic.com/s/suezone/v2/xulpHtKbz3V8hoSLE2uKDw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sumana';
+      src: url('http://fonts.gstatic.com/s/sumana/v2/wgdl__wAK7pzliiWs0Nlog.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sunshiney';
+      src: url('http://fonts.gstatic.com/s/sunshiney/v8/kaWOb4pGbwNijM7CkxK1sQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Supermercado One';
+      src: url('http://fonts.gstatic.com/s/supermercadoone/v7/kMGPVTNFiFEp1U274uBMb4mm5hmSKNFf3C5YoMa-lrM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Sura';
+      src: url('http://fonts.gstatic.com/s/sura/v2/jznKrhTH5NezYxb0-Q5zzA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Suranna';
+      src: url('http://fonts.gstatic.com/s/suranna/v5/PYmfr6TQeTqZ-r8HnPM-kA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Suravaram';
+      src: url('http://fonts.gstatic.com/s/suravaram/v4/G4dPee4pel_w2HqzavW4MA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Suwannaphum';
+      src: url('http://fonts.gstatic.com/s/suwannaphum/v11/1jIPOyXied3T79GCnSlCN6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Swanky and Moo Moo';
+      src: url('http://fonts.gstatic.com/s/swankyandmoomoo/v7/orVNZ9kDeE3lWp3U3YELu9DVLKqNC3_XMNHhr8S94FU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Syncopate';
+      src: url('http://fonts.gstatic.com/s/syncopate/v9/RQVwO52fAH6MI764EcaYtw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tangerine';
+      src: url('http://fonts.gstatic.com/s/tangerine/v9/DTPeM3IROhnkz7aYG2a9sA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Taprom';
+      src: url('http://fonts.gstatic.com/s/taprom/v9/-KByU3BaUsyIvQs79qFObg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tauri';
+      src: url('http://fonts.gstatic.com/s/tauri/v5/XIWeYJDXNqiVNej0zEqtGg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Taviraj';
+      src: url('http://fonts.gstatic.com/s/taviraj/v3/AH1eoWagKJhbVx4Poc3M1A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Teko';
+      src: url('http://fonts.gstatic.com/s/teko/v7/UtekqODEqZXSN2L-njejpA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Telex';
+      src: url('http://fonts.gstatic.com/s/telex/v6/24-3xP9ywYeHOcFU3iGk8A.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tenali Ramakrishna';
+      src: url('http://fonts.gstatic.com/s/tenaliramakrishna/v4/M0nTmDqv2M7AGoGh-c946BZak5pSBHqWX6uyVMiMFoA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tenor Sans';
+      src: url('http://fonts.gstatic.com/s/tenorsans/v8/dUBulmjNJJInvK5vL7O9yfesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Text Me One';
+      src: url('http://fonts.gstatic.com/s/textmeone/v5/9em_3ckd_P5PQkP4aDyDLqCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'The Girl Next Door';
+      src: url('http://fonts.gstatic.com/s/thegirlnextdoor/v8/cWRA4JVGeEcHGcPl5hmX7kzo0nFFoM60ux_D9BUymX4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tienne';
+      src: url('http://fonts.gstatic.com/s/tienne/v10/-IIfDl701C0z7-fy2kmGvA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tillana';
+      src: url('http://fonts.gstatic.com/s/tillana/v3/zN0D-jDPsr1HzU3VRFLY5g.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Timmana';
+      src: url('http://fonts.gstatic.com/s/timmana/v2/T25SicsJUJkc2s2sbBsDnA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tinos';
+      src: url('http://fonts.gstatic.com/s/tinos/v11/EqpUbkVmutfwZ0PjpoGwCg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Titan One';
+      src: url('http://fonts.gstatic.com/s/titanone/v5/FbvpRvzfV_oipS0De3iAZg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Titillium Web';
+      src: url('http://fonts.gstatic.com/s/titilliumweb/v6/7XUFZ5tgS-tD6QamInJTcTyagQBwYgYywpS70xNq8SQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Trade Winds';
+      src: url('http://fonts.gstatic.com/s/tradewinds/v6/sDOCVgAxw6PEUi2xdMsoDaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Trirong';
+      src: url('http://fonts.gstatic.com/s/trirong/v3/lYu4kez-Enlvh2X-itx6CA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Trocchi';
+      src: url('http://fonts.gstatic.com/s/trocchi/v6/uldNPaKrUGVeGCVsmacLwA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Trochut';
+      src: url('http://fonts.gstatic.com/s/trochut/v5/6Y65B0x-2JsnYt16OH5omw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Trykker';
+      src: url('http://fonts.gstatic.com/s/trykker/v6/YiVrVJpBFN7I1l_CWk6yYQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Tulpen One';
+      src: url('http://fonts.gstatic.com/s/tulpenone/v7/lwcTfVIEVxpZLZlWzR5baPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ubuntu';
+      src: url('http://fonts.gstatic.com/s/ubuntu/v11/4iCs6KVjbNBYlgo6eA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ubuntu Condensed';
+      src: url('http://fonts.gstatic.com/s/ubuntucondensed/v8/DBCt-NXN57MTAFjitYxdrKDbm6fPDOZJsR8PmdG62gY.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ubuntu Mono';
+      src: url('http://fonts.gstatic.com/s/ubuntumono/v7/EgeuS9OtEmA0y_JRo03MQaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Ultra';
+      src: url('http://fonts.gstatic.com/s/ultra/v10/OW8uXkOstRADuhEmGOFQLA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Uncial Antiqua';
+      src: url('http://fonts.gstatic.com/s/uncialantiqua/v5/F-leefDiFwQXsyd6eaSllqrFJ4O13IHVxZbM6yoslpo.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Underdog';
+      src: url('http://fonts.gstatic.com/s/underdog/v6/gBv9yjez_-5PnTprHWq0ig.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Unica One';
+      src: url('http://fonts.gstatic.com/s/unicaone/v5/KbYKlhWMDpatWViqDkNQgA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'UnifrakturCook';
+      src: url('<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined property: stdClass::$regular in D:\Work\wamp\www\quickmode\google-fonts.php on line <i>23</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>247944</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='D:\Work\wamp\www\quickmode\google-fonts.php' bgcolor='#eeeeec'>...\google-fonts.php<b>:</b>0</td></tr>
+</table></font>
+');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'UnifrakturMaguntia';
+      src: url('http://fonts.gstatic.com/s/unifrakturmaguntia/v8/7KWy3ymCVR_xfAvvcIXm3-kdNg30GQauG_DE-tMYtWk.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Unkempt';
+      src: url('http://fonts.gstatic.com/s/unkempt/v9/NLLBeNSspr0RGs71R5LHWA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Unlock';
+      src: url('http://fonts.gstatic.com/s/unlock/v7/rXEQzK7uIAlhoyoAEiMy1w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Unna';
+      src: url('http://fonts.gstatic.com/s/unna/v10/UAS0AM7AmbdCNY_80xyAZQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'VT323';
+      src: url('http://fonts.gstatic.com/s/vt323/v9/ITU2YQfM073o1iYK3nSOmQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Vampiro One';
+      src: url('http://fonts.gstatic.com/s/vampiroone/v8/OVDs4gY4WpS5u3Qd1gXRW6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Varela';
+      src: url('http://fonts.gstatic.com/s/varela/v8/ON7qs0cKUUixhhDFXlZUjw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Varela Round';
+      src: url('http://fonts.gstatic.com/s/varelaround/v9/APH4jr0uSos5wiut5cpjri3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Vast Shadow';
+      src: url('http://fonts.gstatic.com/s/vastshadow/v7/io4hqKX3ibiqQQjYfW0-h6CWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Vesper Libre';
+      src: url('http://fonts.gstatic.com/s/vesperlibre/v9/Cg-TeZFsqV8BaOcoVwzu2C3USBnSvpkopQaUR-2r7iU.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Vibur';
+      src: url('http://fonts.gstatic.com/s/vibur/v8/xB9aKsUbJo68XP0bAg2iLw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Vidaloka';
+      src: url('http://fonts.gstatic.com/s/vidaloka/v9/C6Nul0ogKUWkx356rrt9RA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Viga';
+      src: url('http://fonts.gstatic.com/s/viga/v6/uD87gDbhS7frHLX4uL6agg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Voces';
+      src: url('http://fonts.gstatic.com/s/voces/v7/QoBH6g6yKgNIgvL8A2aE2Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Volkhov';
+      src: url('http://fonts.gstatic.com/s/volkhov/v9/MDIZAofe1T_J3un5Kgo8zg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Vollkorn';
+      src: url('http://fonts.gstatic.com/s/vollkorn/v8/IiexqYAeh8uII223thYx3w.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Vollkorn SC';
+      src: url('http://fonts.gstatic.com/s/vollkornsc/v1/HMEVRTum_bgc4D5Z4_TG-KCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Voltaire';
+      src: url('http://fonts.gstatic.com/s/voltaire/v7/WvqBzaGEBbRV-hrahwO2cA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Waiting for the Sunrise';
+      src: url('http://fonts.gstatic.com/s/waitingforthesunrise/v8/eNfH7kLpF1PZWpsetF-ha9TChrNgrDiT3Zy6yGf3FnM.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Wallpoet';
+      src: url('http://fonts.gstatic.com/s/wallpoet/v9/hmum4WuBN4A0Z_7367NDIg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Walter Turncoat';
+      src: url('http://fonts.gstatic.com/s/walterturncoat/v8/sG9su5g4GXy1KP73cU3hvQplL2YwNeota48DxFlGDUo.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Warnes';
+      src: url('http://fonts.gstatic.com/s/warnes/v7/MXG7_Phj4YpzAXxKGItuBw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Wellfleet';
+      src: url('http://fonts.gstatic.com/s/wellfleet/v5/J5tOx72iFRPgHYpbK9J4XQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Wendy One';
+      src: url('http://fonts.gstatic.com/s/wendyone/v5/R8CJT2oDXdMk_ZtuHTxoxw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Wire One';
+      src: url('http://fonts.gstatic.com/s/wireone/v8/sRLhaQOQpWnvXwIx0CycQw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Work Sans';
+      src: url('http://fonts.gstatic.com/s/worksans/v3/zVvigUiMvx7JVEnrJgc-5Q.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Yanone Kaffeesatz';
+      src: url('http://fonts.gstatic.com/s/yanonekaffeesatz/v9/YDAoLskQQ5MOAgvHUQCcLdXn3cHbFGWU4T2HrSN6JF4.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Yantramanav';
+      src: url('http://fonts.gstatic.com/s/yantramanav/v3/FwdziO-qWAO8pZg8e376kaCWcynf_cDxXwCLxiixG1c.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Yatra One';
+      src: url('http://fonts.gstatic.com/s/yatraone/v4/ApKQzWF7_vG0Lt5TDqgUvw.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Yellowtail';
+      src: url('http://fonts.gstatic.com/s/yellowtail/v8/HLrU6lhCTjXfLZ7X60LcB_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Yeseva One';
+      src: url('http://fonts.gstatic.com/s/yesevaone/v12/eenQQxvpzSA80JmisGcgX_esZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Yesteryear';
+      src: url('http://fonts.gstatic.com/s/yesteryear/v6/dv09hP_ZrdjVOfZQXKXuZvesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Yrsa';
+      src: url('http://fonts.gstatic.com/s/yrsa/v3/JWX_dCK4_Jq-oqF7r9rFHg.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Zeyada';
+      src: url('http://fonts.gstatic.com/s/zeyada/v7/hmonmGYYFwqTZQfG2nRswQ.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Zilla Slab';
+      src: url('http://fonts.gstatic.com/s/zillaslab/v3/GQa6C2kQZDjk1E7wBSIhnPesZW2xOQ-xsNqO47m55DA.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+        @font-face {
+      font-family: 'Zilla Slab Highlight';
+      src: url('http://fonts.gstatic.com/s/zillaslabhighlight/v3/A1oFQmFZMluFeVEQs3f1ZsRj1XVSCnpi3yrU572D-Ys.ttf');  
+      font-weight: normal;
+      font-style: normal;
+    }
+    

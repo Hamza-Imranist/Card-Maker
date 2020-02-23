@@ -1,0 +1,56 @@
+.photo-editor {
+	position: relative;
+	overflow: hidden;
+}
+
+.photo-preview {
+	position: relative;
+}
+.photo-preview .photo-preview-text-name.moving {
+	cursor: move;
+	border: 1px dashed red;
+}
+
+.photo-preview .photo-preview-text-profession.moving {
+	cursor: move;
+	border: 1px dashed red;
+}
+
+.photo-preview .photo-preview-text-name {
+	position: absolute;
+	padding: 2px;
+	width: 100px;
+	word-wrap: break-word;
+	font-size: 15px;
+}
+.photo-preview .photo-preview-text-profession {
+	position: absolute;
+	padding: 2px;
+	width: 100px;
+	word-wrap: break-word;
+	font-size: 15px;
+}
+.photo-preview .mask {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	background: #000 !important;
+	opacity: 0 !important;
+}
+
+@media screen and (min-width: 992px) {
+	.box-view {
+		height: 150px;
+		overflow: hidden;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.box-view {
+		width: 85%;
+		display: block;
+		margin: auto;
+	}
+}
